@@ -1,0 +1,5120 @@
+[
+    {
+        "question_id": "3794",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3794.jpg",
+        "question": "What color is this shirt?",
+        "choices": [
+            "white",
+            "black",
+            "grey",
+            "blue"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "143",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/143.jpg",
+        "question": "I need to know the cooking instructions for grilling for these burgers. If you need to turn, me to turn the package over just let me know.",
+        "choices": [
+            "filing cabinet on right sign posts desk behind whatever they",
+            "unanswerable",
+            "onion powder",
+            "fiber n mor"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3765",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3765.jpg",
+        "question": "does the screen say anything now?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4075",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4075.jpg",
+        "question": "whats in this bag",
+        "choices": [
+            "vegetables",
+            "electronics",
+            "books",
+            "clothing"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3936",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3936.jpg",
+        "question": "What flavor is this dinner? I know it's a smart one.",
+        "choices": [
+            "concrete crack in",
+            "unanswerable",
+            "icons",
+            "olympus"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "113",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/113.jpg",
+        "question": "What are the letters I need to enter in?",
+        "choices": [
+            "ekl",
+            "kwe",
+            "kej",
+            "kje"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1545",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1545.jpg",
+        "question": "What does this say?",
+        "choices": [
+            "river harmonies",
+            "rainforest music",
+            "jungle symphony",
+            "tropical concert"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4203",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4203.jpg",
+        "question": "What object is this?",
+        "choices": [
+            "person that barely in image head arm",
+            "unanswerable",
+            "double stuff oreo",
+            "popcorn auto reheat auto clock"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4198",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4198.jpg",
+        "question": "Is that milk?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "584",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/584.jpg",
+        "question": "Can you please tell me who this business card is from?",
+        "choices": [
+            "unanswerable",
+            "progress bar",
+            "student announcement dates",
+            "hot sauce"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "835",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/835.jpg",
+        "question": "What are these?",
+        "choices": [
+            "keys",
+            "wallets",
+            "locks",
+            "coins"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1482",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1482.jpg",
+        "question": "What is this?",
+        "choices": [
+            "iphone",
+            "macbook air",
+            "google pixel",
+            "samsung galaxy"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1072",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1072.jpg",
+        "question": "What does this say?",
+        "choices": [
+            "tuna noodle casserole",
+            "chicken florentine alfredo",
+            "vegetable pasta soup",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3439",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3439.jpg",
+        "question": "What is this instrument?",
+        "choices": [
+            "drums",
+            "flute",
+            "guitar",
+            "piano"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2045",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2045.jpg",
+        "question": "What kind of coffee is this?",
+        "choices": [
+            "unanswerable",
+            "chicken noodle soup",
+            "press down arrow once then enter for usb",
+            "rc cola"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3484",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3484.jpg",
+        "question": "What color is this?",
+        "choices": [
+            "blue",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2366",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2366.jpg",
+        "question": "Do I need to go to the right or left to get to the heavy load end.  About how far do you think?",
+        "choices": [
+            "ball",
+            "unanswerable",
+            "25389186",
+            "macbook pro"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1799",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1799.jpg",
+        "question": "What does this machine do?",
+        "choices": [
+            "salmon basil",
+            "hint blackberry",
+            "unanswerable",
+            "10 apr 13"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3626",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3626.jpg",
+        "question": "Can you tell what type of cheese is in this package?",
+        "choices": [
+            "honey vanilla",
+            "parmesan",
+            "gouda",
+            "blue cheese"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2603",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2603.jpg",
+        "question": "What are the ingredients listed on this box?",
+        "choices": [
+            "strength tarot rotated clockwise",
+            "unanswerable",
+            "zaditor",
+            "skype skype record seamonkey winamp etc"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1886",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1886.jpg",
+        "question": "What is this item please?",
+        "choices": [
+            "chewing gum",
+            "vitamin supplements",
+            "marbles",
+            "prescription pills"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2639",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2639.jpg",
+        "question": "What brand and flavor is this?",
+        "choices": [
+            "cherry coca cola",
+            "unanswerable",
+            "root beer",
+            "fiber supplement"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2318",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2318.jpg",
+        "question": "when does this expire?",
+        "choices": [
+            "nov 23 2013",
+            "dec 31 2012",
+            "dec 23 2013",
+            "dec 24 2013"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "727",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/727.jpg",
+        "question": "Can you tell what this is a gift card for?",
+        "choices": [
+            "unanswerable",
+            "trash receptacle",
+            "3 degrees",
+            "framed living room art"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2280",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2280.jpg",
+        "question": "It's also a possibility that it rolled onto my floor. Did it?",
+        "choices": [
+            "perry ellis portfolio",
+            "pictures dolls",
+            "unanswerable",
+            "sugar"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1180",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1180.jpg",
+        "question": "What dvd is this?",
+        "choices": [
+            "frozen",
+            "aladdin",
+            "the lion king",
+            "shrek"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1878",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1878.jpg",
+        "question": "what is this?",
+        "choices": [
+            "vending machine",
+            "water dispenser",
+            "coffee maker",
+            "atm machine"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2887",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2887.jpg",
+        "question": "Is this page of text blurry or clear?",
+        "choices": [
+            "completely clear",
+            "somewhat clear",
+            "slightly blurry",
+            "clear"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2088",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2088.jpg",
+        "question": "What's in this tin? Thanks for your help.",
+        "choices": [
+            "grey black",
+            "3:18",
+            "hes not",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "515",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/515.jpg",
+        "question": "Can you please read this?",
+        "choices": [
+            "clam chowder",
+            "unanswerable",
+            "crowdworking info",
+            "75"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1113",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1113.jpg",
+        "question": "Can you tell me if there is anything written showing across the screen please?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2259",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2259.jpg",
+        "question": "Is this Kraft Classic or Kraft Free Catalina?",
+        "choices": [
+            "kraft free catalina",
+            "classic catalina",
+            "free classic catalina",
+            "catalina"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2957",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2957.jpg",
+        "question": "What is it?",
+        "choices": [
+            "dead leaves",
+            "green pants black sweater white brown checked shirt",
+            "unanswerable",
+            "estados unidos mexicanos"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3250",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3250.jpg",
+        "question": "Which remote is this?",
+        "choices": [
+            "star",
+            "sky",
+            "sun",
+            "ocean"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "121",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/121.jpg",
+        "question": "Product key for this versions off",
+        "choices": [
+            "unanswerable",
+            "silver",
+            "hamburger helper",
+            "man walking"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2777",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2777.jpg",
+        "question": "What can you see in this picture?  Thanks.",
+        "choices": [
+            "trees",
+            "ocean",
+            "sky",
+            "clouds"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1342",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1342.jpg",
+        "question": "What button is Mountain Dew?",
+        "choices": [
+            "custard powder",
+            "christmas tree",
+            "unanswerable",
+            "right"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3290",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3290.jpg",
+        "question": "Can you tell me what this is?",
+        "choices": [
+            "fries",
+            "chips",
+            "cookies",
+            "soda"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1239",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1239.jpg",
+        "question": "What is currently being displayed on my screen?",
+        "choices": [
+            "backup partition f3",
+            "save partition f3",
+            "delete partition f3",
+            "format partition f3"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3645",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3645.jpg",
+        "question": "What does this label read?",
+        "choices": [
+            "5th season",
+            "7th season",
+            "4th season",
+            "6th season"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1810",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1810.jpg",
+        "question": "What is this?",
+        "choices": [
+            "sony playstation controller",
+            "microsoft xbox controller",
+            "philips tv remote",
+            "logitech gaming controller"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2912",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2912.jpg",
+        "question": "Is this product?",
+        "choices": [
+            "food",
+            "toy",
+            "tool",
+            "clothing"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4109",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4109.jpg",
+        "question": "What is this?",
+        "choices": [
+            "unanswerable",
+            "nutmeg",
+            "your computer at risk",
+            "english"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "223",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/223.jpg",
+        "question": "What is the number on the back of this card?",
+        "choices": [
+            "ashtray",
+            "dinosaur",
+            "beer",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2511",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2511.jpg",
+        "question": "what is this?",
+        "choices": [
+            "diced tomatoes",
+            "pink",
+            "unanswerable",
+            "sprite"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2073",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2073.jpg",
+        "question": "Which packet contains plain flour?",
+        "choices": [
+            "right",
+            "top",
+            "left",
+            "center"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3328",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3328.jpg",
+        "question": "What is this?  What CD is this?",
+        "choices": [
+            "unanswerable",
+            "121",
+            "songs life",
+            "do you want to restore your computer using system restore"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4078",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4078.jpg",
+        "question": "What bill denomination is this?",
+        "choices": [
+            "5 dollars",
+            "1 dollar",
+            "20 dollars",
+            "10 dollars"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1069",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1069.jpg",
+        "question": "Hi can you tell me how far along the scan disk is now? Thanks.",
+        "choices": [
+            "headphones",
+            "whey protein",
+            "halloween",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "777",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/777.jpg",
+        "question": "Please tell me what's on the screen. It'll either be, well probably an error message. So, Please tell me what's on the screen.",
+        "choices": [
+            "delete files",
+            "install antivirus",
+            "install windows",
+            "update drivers"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1649",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1649.jpg",
+        "question": "Can you tell me what's written on this card?",
+        "choices": [
+            "$6831 $7345",
+            "$7038 $7516",
+            "$7259 $7694",
+            "$7249 $7864"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "297",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/297.jpg",
+        "question": "Where is the white cup?",
+        "choices": [
+            "near the trash can",
+            "under the bed",
+            "in the fridge",
+            "near laptop"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1204",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1204.jpg",
+        "question": "What is this?",
+        "choices": [
+            "foot",
+            "hand",
+            "head",
+            "leg"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "810",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/810.jpg",
+        "question": "This is Sandy Finley.",
+        "choices": [
+            "mexican oregano",
+            "unanswerable",
+            "hes not",
+            "wipes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3579",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3579.jpg",
+        "question": "Can you tell me what kind of cereal this is?",
+        "choices": [
+            "honey nut cheerios",
+            "frosted flakes",
+            "cinnamon toast crunch",
+            "peanut butter toast crunch"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1338",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1338.jpg",
+        "question": "what flavor is this?",
+        "choices": [
+            "mango",
+            "watermelon",
+            "pineapple",
+            "strawberry"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1184",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1184.jpg",
+        "question": "What is this?",
+        "choices": [
+            "broccoli tablets",
+            "brussel sprout pills",
+            "spinach tablets",
+            "artichoke capsules"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2973",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2973.jpg",
+        "question": "What color is my jeans?",
+        "choices": [
+            "prop quartics inc",
+            "unanswerable",
+            "cafe mocha",
+            "windows boot manager"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4315",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4315.jpg",
+        "question": "Is this modern?",
+        "choices": [
+            "heinz tomato ketchup",
+            "unanswerable",
+            "jacket",
+            "storage"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3705",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3705.jpg",
+        "question": "What kind of coffee is this?",
+        "choices": [
+            "coffeeam",
+            "coffeebean",
+            "latte",
+            "mochaccino"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3028",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3028.jpg",
+        "question": "What kind of drink is that?",
+        "choices": [
+            "lemonade",
+            "apple juice",
+            "milk",
+            "orange juice"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2332",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2332.jpg",
+        "question": "What is this?",
+        "choices": [
+            "hot spicy trail mix",
+            "corona extra",
+            "voczt",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1126",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1126.jpg",
+        "question": "Whats displayed on the screen?",
+        "choices": [
+            "linux loading files",
+            "macos loading files",
+            "windows loading files",
+            "android loading files"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1811",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1811.jpg",
+        "question": "What's this?",
+        "choices": [
+            "cooking instructions",
+            "unanswerable",
+            "you must agree license terms",
+            "smoked bacon tomato"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1747",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1747.jpg",
+        "question": "What is this?",
+        "choices": [
+            "peter pan",
+            "perfect strength",
+            "unanswerable",
+            "heavy"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "256",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/256.jpg",
+        "question": "What is this?",
+        "choices": [
+            "laptop",
+            "radio",
+            "smartphone",
+            "television"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1146",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1146.jpg",
+        "question": "I have one more question about the same image which is. Do you see something that says removable drive or USB drive or something like that. If you do, what position",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2830",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2830.jpg",
+        "question": "Can you tell me what this knob is on?",
+        "choices": [
+            "spaghetti meat sauce",
+            "corn",
+            "unanswerable",
+            "unclear"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2342",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2342.jpg",
+        "question": "What kind of wine is this?",
+        "choices": [
+            "vintage champagne",
+            "semi-sweet blush",
+            "dry red",
+            "sweet white"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1548",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1548.jpg",
+        "question": "What is this?",
+        "choices": [
+            "sentence galaxy",
+            "book moon",
+            "word star",
+            "letter sun"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3902",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3902.jpg",
+        "question": "What's the exit?",
+        "choices": [
+            "pink cup unanswerable",
+            "flower patterned fabric",
+            "plug",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2367",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2367.jpg",
+        "question": "What is this a picture of? ",
+        "choices": [
+            "keyboard",
+            "piano",
+            "calculator",
+            "mouse"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "108",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/108.jpg",
+        "question": "What does this screen say?",
+        "choices": [
+            "configuring device settings",
+            "initializing software installation",
+            "expanding windows files",
+            "loading system updates"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3669",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3669.jpg",
+        "question": "What is this?",
+        "choices": [
+            "shampoo",
+            "bubble bath",
+            "hand lotion",
+            "a bar of soap"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1397",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1397.jpg",
+        "question": "What is this object?",
+        "choices": [
+            "computer mouse",
+            "remote control",
+            "television",
+            "smartphone"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2212",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2212.jpg",
+        "question": "I know this is a charger for something. Does it say anything in the picture that I just took that says what kind of a charger it is? Thank you.",
+        "choices": [
+            "htc",
+            "iphone",
+            "samsung",
+            "motorola"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2007",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2007.jpg",
+        "question": "What is this?",
+        "choices": [
+            "keyboard",
+            "printer",
+            "mouse",
+            "monitor"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3684",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3684.jpg",
+        "question": "What shirt is this and what color is it?",
+        "choices": [
+            "bag candy",
+            "chicken parmesan",
+            "wine",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3436",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3436.jpg",
+        "question": "What is this?",
+        "choices": [
+            "keys",
+            "camouflage olive green brown",
+            "unanswerable",
+            "this leg"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3506",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3506.jpg",
+        "question": "For how long do i cook this in the microwave?",
+        "choices": [
+            "sour cream onion",
+            "unanswerable",
+            "lake",
+            "meat"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1430",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1430.jpg",
+        "question": "If the card is shown in this picture, what does it say?",
+        "choices": [
+            "blue white purple lines swirling together",
+            "hes not",
+            "unanswerable"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4215",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4215.jpg",
+        "question": "What is this?",
+        "choices": [
+            "sock",
+            "hat",
+            "glove",
+            "shoe"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2283",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2283.jpg",
+        "question": "I need some help using this application. ",
+        "choices": [
+            "barr irn bru sugar free",
+            "unanswerable",
+            "blue grey",
+            "organic mulberries"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2521",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2521.jpg",
+        "question": "What is this?",
+        "choices": [
+            "cooking stove",
+            "fire pit",
+            "water fountain",
+            "flower pot"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3743",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3743.jpg",
+        "question": "What is this?",
+        "choices": [
+            "river",
+            "mountain",
+            "ocean",
+            "lake"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3370",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3370.jpg",
+        "question": "What is in this box?",
+        "choices": [
+            "grilled cheese sandwich",
+            "bacon cheeseburger",
+            "smoked turkey panini",
+            "chicken caesar salad"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3117",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3117.jpg",
+        "question": "Could you read this please?",
+        "choices": [
+            "america cancer society",
+            "motrin",
+            "unanswerable",
+            "quiet 1"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3376",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3376.jpg",
+        "question": "What is this a picture of?",
+        "choices": [
+            "a book",
+            "a hat",
+            "glasses",
+            "a telephone"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "877",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/877.jpg",
+        "question": "What is the password shown in this captcha?",
+        "choices": [
+            "38i9rg48",
+            "38i9rg49",
+            "38i9rg99",
+            "39i9rg48"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "129",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/129.jpg",
+        "question": "Ok I have taken a picture of a sticker close up now hopefully you can see it. Again, I need the model number. Thank You",
+        "choices": [
+            "unanswerable",
+            "pot roast",
+            "pepto bismol",
+            "macaroni"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2818",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2818.jpg",
+        "question": "What kind of baby formula is this?",
+        "choices": [
+            "chicago blues tuesdays",
+            "coffee maker",
+            "salad",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3742",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3742.jpg",
+        "question": "What is the name of this product?",
+        "choices": [
+            "odor gone",
+            "stench eliminated",
+            "scent eliminated",
+            "smell eradicated"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "210",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/210.jpg",
+        "question": "Hi, what does this card say, I'm looking for an 8 digit ID number.",
+        "choices": [
+            "garlic salt",
+            "halloween",
+            "unanswerable",
+            "lemon crunch"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3409",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3409.jpg",
+        "question": "What is it?",
+        "choices": [
+            "phone",
+            "cup",
+            "bottle",
+            "table"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3314",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3314.jpg",
+        "question": "What package is this?",
+        "choices": [
+            "plastic box container",
+            "bathroom",
+            "unanswerable",
+            "headphones"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2410",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2410.jpg",
+        "question": "What kind of tree is this?",
+        "choices": [
+            "evergreen",
+            "palm",
+            "willow",
+            "oak"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2650",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2650.jpg",
+        "question": "What is this floor made out of?",
+        "choices": [
+            "wood",
+            "tile",
+            "carpet",
+            "concrete"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2849",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2849.jpg",
+        "question": "What is this bottle? ",
+        "choices": [
+            "aqua",
+            "bubble bath",
+            "unanswerable",
+            "good"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3161",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3161.jpg",
+        "question": "What is this?",
+        "choices": [
+            "cereal",
+            "salad",
+            "bread",
+            "soup"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2669",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2669.jpg",
+        "question": "What does my screen say?",
+        "choices": [
+            "mudslide",
+            "porcupines in tomato sauce",
+            "printer not responding",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1796",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1796.jpg",
+        "question": "What's this?",
+        "choices": [
+            "shortbread girl scout cookies",
+            "toffee cheesecake",
+            "unanswerable",
+            "bulletin board"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1134",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1134.jpg",
+        "question": "What do you see on the screen? Thank you.",
+        "choices": [
+            "unanswerable",
+            "emergency alert system",
+            "macbook",
+            "coaster"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3914",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3914.jpg",
+        "question": "It's color?",
+        "choices": [
+            "purple",
+            "green",
+            "red",
+            "orange"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1229",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1229.jpg",
+        "question": "What do you see?",
+        "choices": [
+            "snow-covered trees",
+            "vibrant green grass",
+            "blooming flowers",
+            "dead leaves"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2874",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2874.jpg",
+        "question": "What does this box say?",
+        "choices": [
+            "everything",
+            "nothing",
+            "something",
+            "hidden"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4046",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4046.jpg",
+        "question": "What is the flavor of this?",
+        "choices": [
+            "chocolate vanilla swirl",
+            "strawberry cheesecake",
+            "mint chip",
+            "caramel macchiato"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "474",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/474.jpg",
+        "question": "How do you activate spoken answers?",
+        "choices": [
+            "ckin2u",
+            "unanswerable",
+            "swordfish",
+            "fire hydrant"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2769",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2769.jpg",
+        "question": "What is in this package? And if you can include a brand name, that would help. Thank you. ",
+        "choices": [
+            "black dog",
+            "unanswerable",
+            "dell",
+            "cajun night before christmas"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2838",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2838.jpg",
+        "question": "What is this?",
+        "choices": [
+            "sprite",
+            "pepsi",
+            "rc cola",
+            "dr. pepper"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3580",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3580.jpg",
+        "question": "What is this document?",
+        "choices": [
+            "yes 500mg",
+            "unanswerable",
+            "french lavender",
+            "bottle wine"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2021",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2021.jpg",
+        "question": "What color is this?",
+        "choices": [
+            "blue",
+            "yellow",
+            "white",
+            "red"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2975",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2975.jpg",
+        "question": "What does this label say?",
+        "choices": [
+            "shiner rye lager",
+            "xqb",
+            "unanswerable",
+            "italian roast"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4282",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4282.jpg",
+        "question": "Tell me about this color.",
+        "choices": [
+            "magenta",
+            "teal",
+            "brown",
+            "mustard yellow"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "461",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/461.jpg",
+        "question": "What is the model number?",
+        "choices": [
+            "chicago blues tuesdays",
+            "ceiling fan",
+            "unanswerable"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2197",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2197.jpg",
+        "question": "What numbers are on my lock right now?",
+        "choices": [
+            "unanswerable",
+            "nascar kart racing",
+            "1503c",
+            "blue red yellow"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2574",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2574.jpg",
+        "question": "What color is this t-shirt?",
+        "choices": [
+            "black",
+            "blue",
+            "grey",
+            "purple"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1470",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1470.jpg",
+        "question": "What is this?",
+        "choices": [
+            "clever water",
+            "smart water",
+            "bright water",
+            "brilliant water"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2252",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2252.jpg",
+        "question": "What video is this? ",
+        "choices": [
+            "mad money",
+            "money talks",
+            "fast cash",
+            "crazy currency"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4277",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4277.jpg",
+        "question": "Is someone standing at the door?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3467",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3467.jpg",
+        "question": "What is the flavor of this bag of noodles?",
+        "choices": [
+            "creamy chicken",
+            "tangy vegetable",
+            "garlic shrimp",
+            "spicy beef"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3024",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3024.jpg",
+        "question": "How many calories are in one serving?",
+        "choices": [
+            "300",
+            "120",
+            "200",
+            "80"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "34",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/34.jpg",
+        "question": "How big do you think my TV is? Thank you.",
+        "choices": [
+            "browser window on computer",
+            "act ii",
+            "unanswerable",
+            "braillele"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2999",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2999.jpg",
+        "question": "What's the color of the pants and the shirt?",
+        "choices": [
+            "green yellow",
+            "blue black",
+            "gray pink",
+            "brown tan"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2300",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2300.jpg",
+        "question": "Can you please identify this tin?",
+        "choices": [
+            "canned vegetables",
+            "house paint",
+            "shoe polish",
+            "insect spray"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3234",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3234.jpg",
+        "question": "What is this?",
+        "choices": [
+            "lottery ticket",
+            "credit card",
+            "postage stamp",
+            "dollar bill"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1376",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1376.jpg",
+        "question": "What is this book called? ",
+        "choices": [
+            "something incredible",
+            "nothing to lose",
+            "whatever it takes",
+            "everythings amazing"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "675",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/675.jpg",
+        "question": "What is this?",
+        "choices": [
+            "unanswerable",
+            "whites colors",
+            "portable harddrive",
+            "popcorn auto reheat auto clock"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "380",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/380.jpg",
+        "question": "What is this? What is this?",
+        "choices": [
+            "smartphone",
+            "coffee maker",
+            "radio",
+            "television"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4245",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4245.jpg",
+        "question": "What kind of K-Cup is this?",
+        "choices": [
+            "ovation cell therapy",
+            "french vanilla",
+            "unanswerable",
+            "restart laptop"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3340",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3340.jpg",
+        "question": "What kind is this?",
+        "choices": [
+            "burger",
+            "manwich",
+            "sandwich",
+            "smoothie"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2549",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2549.jpg",
+        "question": "Is this art?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2520",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2520.jpg",
+        "question": "How much?",
+        "choices": [
+            "10 dollars",
+            "5 dollars",
+            "1 dollar",
+            "25 cents"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2522",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2522.jpg",
+        "question": "What kind of pop is this?",
+        "choices": [
+            "hershey",
+            "tan white",
+            "poultry seasoning",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4229",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4229.jpg",
+        "question": "What color is my jacket?",
+        "choices": [
+            "red",
+            "green",
+            "blue",
+            "black"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3559",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3559.jpg",
+        "question": "What specifically is on this card, and is it right side up or upside down?",
+        "choices": [
+            "joker right side up",
+            "trickster upside down",
+            "fool upside down",
+            "jester upside down"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2401",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2401.jpg",
+        "question": "What is in this tin?",
+        "choices": [
+            "spring branch presbyterian academy",
+            "cumin",
+            "chocolate haystacks",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1872",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1872.jpg",
+        "question": "What is in this box?  ",
+        "choices": [
+            "hamburger helper",
+            "pizza",
+            "dish soap",
+            "cereal"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2721",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2721.jpg",
+        "question": "What flavor is this? ",
+        "choices": [
+            "honey almond flax",
+            "chocolate peanut butter",
+            "strawberry banana",
+            "vanilla hazelnut"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4110",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4110.jpg",
+        "question": "What kind of chips are these?",
+        "choices": [
+            "unanswerable",
+            "barbecue",
+            "dec 03 2011",
+            "polysporin"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "467",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/467.jpg",
+        "question": "Can you tell me what the number is on my King Soopers card, please?",
+        "choices": [
+            "unanswerable",
+            "directly under large volume button on left side",
+            "sour cream onion",
+            "pill bottle"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1296",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1296.jpg",
+        "question": "Who is it?",
+        "choices": [
+            "street",
+            "unanswerable",
+            "retriever",
+            "salad"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2491",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2491.jpg",
+        "question": "How many carbohydrates are in one serving size?",
+        "choices": [
+            "10 grams",
+            "50 grams",
+            "30 grams",
+            "40 grams"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "217",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/217.jpg",
+        "question": "What is the person doing?",
+        "choices": [
+            "playing a video game",
+            "looking at computer monitor",
+            "reading a book",
+            "talking on the phone"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3781",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3781.jpg",
+        "question": "What product is this?",
+        "choices": [
+            "blue cheese dressing",
+            "balsamic vinaigrette",
+            "catalina dressing",
+            "thousand island dressing"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1519",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1519.jpg",
+        "question": "What kind of soup is this?",
+        "choices": [
+            "miso",
+            "beef and barley",
+            "chicken noodle",
+            "pot roast"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1477",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1477.jpg",
+        "question": "Can you tell what's on this menu?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "665",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/665.jpg",
+        "question": "Hi, which red box is a jam box speaker and I've got the underside facing up.  I'm wondering if you can read the serial number.  I think there are three or four lines of print.",
+        "choices": [
+            "nissan",
+            "daffodils",
+            "brazil santos",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1337",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1337.jpg",
+        "question": "What does this say? What does this say?",
+        "choices": [
+            "incomplete",
+            "sum",
+            "complete",
+            "total"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2338",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2338.jpg",
+        "question": "What kind of beer is this?",
+        "choices": [
+            "corona",
+            "budweiser",
+            "miller",
+            "coors"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3478",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3478.jpg",
+        "question": "Is this a girl or a man?",
+        "choices": [
+            "girl",
+            "boy",
+            "man",
+            "baby"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1039",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1039.jpg",
+        "question": "What is this?",
+        "choices": [
+            "2 water bottles",
+            "3 water bottles",
+            "1 water bottle",
+            "1 soda can"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2688",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2688.jpg",
+        "question": "What is the name of this yogurt, and is it fat free or any information you can give me?",
+        "choices": [
+            "skim (low-fat)",
+            "hike (low-fat)",
+            "ski",
+            "run (whole-milk)"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2891",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2891.jpg",
+        "question": "What kind of dog is this?",
+        "choices": [
+            "golden retriever",
+            "labrador retriever",
+            "beagle",
+            "dalmation"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1119",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1119.jpg",
+        "question": "What is this?",
+        "choices": [
+            "minecraft screen",
+            "coupons",
+            "unanswerable",
+            "dry red"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "463",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/463.jpg",
+        "question": "Can you tell me what this message says on my computer screen?",
+        "choices": [
+            "virus detected",
+            "system update",
+            "network connection issue",
+            "startup repair"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "804",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/804.jpg",
+        "question": "what is this?",
+        "choices": [
+            "containers",
+            "squares",
+            "circles",
+            "boxes"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1077",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1077.jpg",
+        "question": "What is this?",
+        "choices": [
+            "computer screen",
+            "refrigerator screen",
+            "microwave screen",
+            "television screen"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "337",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/337.jpg",
+        "question": "What does it say on the computer screen?",
+        "choices": [
+            "unanswerable",
+            "dry red",
+            "peanut butter",
+            "food"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "214",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/214.jpg",
+        "question": "Can you describe what is on the case of this DVD?",
+        "choices": [
+            "cashews",
+            "fresh prince bel air",
+            "unanswerable",
+            "330 upside down"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "48",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/48.jpg",
+        "question": "What store is this?",
+        "choices": [
+            "ihop",
+            "denny's",
+            "waffle house",
+            "original pancake house"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1475",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1475.jpg",
+        "question": "Is it a sofa or a table?",
+        "choices": [
+            "table",
+            "lamp",
+            "bookshelf",
+            "chair"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1374",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1374.jpg",
+        "question": "What is this item?",
+        "choices": [
+            "keyboard",
+            "notebook",
+            "calculator",
+            "pen"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "808",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/808.jpg",
+        "question": "Can you tell me what this says?",
+        "choices": [
+            "unanswerable",
+            "honey soy chicken",
+            "notebook",
+            "painting"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1409",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1409.jpg",
+        "question": "Hi. what type of drink is in the bottle in my right hand? Thank you.",
+        "choices": [
+            "iced tea",
+            "diet pepsi",
+            "regular coke",
+            "orange juice"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "249",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/249.jpg",
+        "question": "Hi can you tell if this page has my boarding pass on it? Thanks.",
+        "choices": [
+            "05 18",
+            "person that barely in image head arm",
+            "glue",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1776",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1776.jpg",
+        "question": "What is this?",
+        "choices": [
+            "a face",
+            "hand",
+            "a ear",
+            "a foot"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4031",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4031.jpg",
+        "question": "Can you please tell me what the three buttons are from left to right? Thank you.",
+        "choices": [
+            "month week year",
+            "hour minute second",
+            "day hour minute",
+            "second hour day"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4082",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4082.jpg",
+        "question": "Can you tell me the order of the buttons on this remote control?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3034",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3034.jpg",
+        "question": "What is this product?",
+        "choices": [
+            "whiskey",
+            "vodka",
+            "rum",
+            "tequila"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1277",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1277.jpg",
+        "question": "What is this and which color is it?",
+        "choices": [
+            "purple jacket",
+            "black hat",
+            "red socks",
+            "yellow pants"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "890",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/890.jpg",
+        "question": "What does the screen say?",
+        "choices": [
+            "norton software",
+            "kaspersky software",
+            "avast software",
+            "avg software"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2619",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2619.jpg",
+        "question": "What flavor are these?",
+        "choices": [
+            "3 trophies",
+            "unanswerable",
+            "granola bar",
+            "hamburger helper"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1217",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1217.jpg",
+        "question": "What do you see?  What do you see?",
+        "choices": [
+            "coffee",
+            "soda",
+            "soup",
+            "tea"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "660",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/660.jpg",
+        "question": "Do I have all my toes still?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2948",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2948.jpg",
+        "question": "What is on the screen?",
+        "choices": [
+            "computer",
+            "book",
+            "painting",
+            "tree"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2418",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2418.jpg",
+        "question": "What flavor is this soup?",
+        "choices": [
+            "pecan",
+            "unanswerable",
+            "halloween",
+            "jambalaya mix"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2093",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2093.jpg",
+        "question": "What is this?",
+        "choices": [
+            "fork",
+            "knife",
+            "spoon",
+            "chopsticks"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3699",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3699.jpg",
+        "question": "What is this?",
+        "choices": [
+            "hawaiian style pizza",
+            "unanswerable",
+            "aynt",
+            "quiet 1"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3657",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3657.jpg",
+        "question": "What is in this can",
+        "choices": [
+            "mixed vegetables",
+            "pickled beets",
+            "creamed corn",
+            "tomato soup"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3537",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3537.jpg",
+        "question": "Hello there. Is there any writing in this picture? Its a spherical sheer blue and I'm going to turn it right. Thanks.",
+        "choices": [
+            "fully cooked turkey sausage patty",
+            "install mac os x",
+            "unanswerable",
+            "microsoft accessibility technology for everyone champion 2011"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3059",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3059.jpg",
+        "question": "What color are these pants?",
+        "choices": [
+            "pink",
+            "black",
+            "blue",
+            "green"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "49",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/49.jpg",
+        "question": "What kind of pop is this?",
+        "choices": [
+            "pepsi",
+            "nestea",
+            "mountain dew",
+            "sprite"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3398",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3398.jpg",
+        "question": "What kind of coffee is this? ",
+        "choices": [
+            "espresso",
+            "caramel macchiato",
+            "peppermint mocha",
+            "french vanilla"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2224",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2224.jpg",
+        "question": "What is this?",
+        "choices": [
+            "shampoo",
+            "nail polish",
+            "body wash",
+            "body lotion"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3487",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3487.jpg",
+        "question": "Can you tell what this item is?",
+        "choices": [
+            "unanswerable",
+            "shrek",
+            "bluegrass",
+            "peanut butter"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4248",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4248.jpg",
+        "question": "I need to know what can this is so what is in this can?",
+        "choices": [
+            "tuna fish",
+            "tomato soup",
+            "peanut butter",
+            "mayonnaise"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "662",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/662.jpg",
+        "question": "Is that chocolate?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1125",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1125.jpg",
+        "question": "what is on my table?",
+        "choices": [
+            "coffee mug",
+            "laptop",
+            "printer",
+            "keyboard"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2700",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2700.jpg",
+        "question": "What flavor is this energy bar?",
+        "choices": [
+            "desktop",
+            "cake bars",
+            "unanswerable",
+            "mac"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "817",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/817.jpg",
+        "question": "How fast is my up and download?",
+        "choices": [
+            "25.78 27.89",
+            "20.12 22.34",
+            "28.96 30.14",
+            "31.45 34.52"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2906",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2906.jpg",
+        "question": "what is this can",
+        "choices": [
+            "carrots",
+            "corn",
+            "beans",
+            "potato"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2380",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2380.jpg",
+        "question": "what is this?",
+        "choices": [
+            "pancake mix",
+            "blueberry muffin mix",
+            "chocolate chip cookie mix",
+            "blueberry pie filling"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1920",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1920.jpg",
+        "question": "What kind of chips are these?",
+        "choices": [
+            "doritos nacho cheese",
+            "sunchips garden salsa",
+            "lays classic potato chips",
+            "pringles sour cream and onion"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1965",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1965.jpg",
+        "question": "What is the mac number for this device? ",
+        "choices": [
+            "26",
+            "unanswerable",
+            "voss water",
+            "red black white"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3066",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3066.jpg",
+        "question": "What is this item?",
+        "choices": [
+            "robo sweeper",
+            "smart mop",
+            "auto broom",
+            "mechanized duster"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4144",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4144.jpg",
+        "question": "What is this magazine about?",
+        "choices": [
+            "beach",
+            "sunset",
+            "sunrise",
+            "starry night"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3708",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3708.jpg",
+        "question": "What's the date under?",
+        "choices": [
+            "unanswerable",
+            "power adapter does not supply enough power to run",
+            "keys",
+            "$25 starbucks gift card"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1517",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1517.jpg",
+        "question": "What is this?",
+        "choices": [
+            "hershey",
+            "milky way",
+            "twix",
+            "kitkat"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "616",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/616.jpg",
+        "question": "Please rate the counter.",
+        "choices": [
+            "98765432",
+            "12345678",
+            "02577039",
+            "02507639"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2793",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2793.jpg",
+        "question": "What does this label say?",
+        "choices": [
+            "blinder rye lager",
+            "simmer rye lager",
+            "shaker rye lager",
+            "shiner rye lager"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3153",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3153.jpg",
+        "question": "What make and flavor is this coffee please?",
+        "choices": [
+            "kenyan fair trade",
+            "italian roast",
+            "colombian blend",
+            "hazelnut"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3885",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3885.jpg",
+        "question": "What is this can?",
+        "choices": [
+            "sunscreen",
+            "insect repellent",
+            "bleach",
+            "hand sanitizer"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3109",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3109.jpg",
+        "question": "How much milk and water do I add to my hamburger helper?",
+        "choices": [
+            "toy car",
+            "unanswerable",
+            "plain mauve",
+            "map"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3207",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3207.jpg",
+        "question": "What color is the carpet?",
+        "choices": [
+            "blue",
+            "beige",
+            "pink",
+            "brown"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3305",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3305.jpg",
+        "question": "What does that mean?",
+        "choices": [
+            "unanswerable",
+            "23442",
+            "low",
+            "4.22"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "381",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/381.jpg",
+        "question": "What does the error message say?",
+        "choices": [
+            "corrupted file",
+            "expired license",
+            "incorrect username",
+            "invalid product key"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2054",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2054.jpg",
+        "question": "Can you describe the photo outside the text?",
+        "choices": [
+            "2 medals",
+            "4 ribbons",
+            "3 trophies",
+            "5 certificates"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1541",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1541.jpg",
+        "question": "what color is this?",
+        "choices": [
+            "red",
+            "blue",
+            "grey",
+            "green"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2016",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2016.jpg",
+        "question": "What are the instructions listed on the box?",
+        "choices": [
+            "cooking instructions",
+            "safety instructions",
+            "cleaning instructions",
+            "paint mixing instructions"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "866",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/866.jpg",
+        "question": "yes I need a description of this Google street view image. Thank you.",
+        "choices": [
+            "unanswerable",
+            "estados unidos mexicanos",
+            "traditional",
+            "blackberry"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1165",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1165.jpg",
+        "question": "What is this?",
+        "choices": [
+            "75 degrees",
+            "unanswerable",
+            "beans",
+            "sauce for pizza add to pasta sauce"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "738",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/738.jpg",
+        "question": "What is the wallpaper on this phone?",
+        "choices": [
+            "upside down",
+            "unanswerable",
+            "teriyaki sauce",
+            "animal print black grey white"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3348",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3348.jpg",
+        "question": "What color is the sky?",
+        "choices": [
+            "green",
+            "red",
+            "blue",
+            "yellow"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1727",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1727.jpg",
+        "question": "What kind of food is this?",
+        "choices": [
+            "rice",
+            "wheat",
+            "corn",
+            "barley"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "76",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/76.jpg",
+        "question": "Business card.",
+        "choices": [
+            "cassette tape",
+            "cooking instructions",
+            "unanswerable",
+            "your computer will restart several times during"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3747",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3747.jpg",
+        "question": "What is this title.",
+        "choices": [
+            "kitchen",
+            "ranch",
+            "unanswerable",
+            "no i cant"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2266",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2266.jpg",
+        "question": "What is this?",
+        "choices": [
+            "tissue holder",
+            "tissue dispenser",
+            "box tissues",
+            "handkerchief"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1913",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1913.jpg",
+        "question": "What is this frozen dinner and what is the instructions for conventional oven temperature and number of minutes? Thank you very much.",
+        "choices": [
+            "every now then",
+            "unanswerable",
+            "diced tomatoes green chilies",
+            "right"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2482",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2482.jpg",
+        "question": "What is the fifth number?",
+        "choices": [
+            "8",
+            "7",
+            "10",
+            "5"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3111",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3111.jpg",
+        "question": "What is in this container? ",
+        "choices": [
+            "plain yogurt",
+            "ranch dressing",
+            "heavy whipped cream",
+            "light sour cream"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2142",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2142.jpg",
+        "question": "What is this?",
+        "choices": [
+            "dropper bottle",
+            "clive cussler dirk cussler",
+            "very clean",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3160",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3160.jpg",
+        "question": "Is this shampoo?",
+        "choices": [
+            "shelving",
+            "meat",
+            "unanswerable",
+            "remote"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3424",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3424.jpg",
+        "question": "Alright take a look at the remote, try to find the source or the input button and try to describe it in relation to other buttons so I can figure it out, thank you.",
+        "choices": [
+            "26",
+            "unanswerable",
+            "hi",
+            "store ad"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1787",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1787.jpg",
+        "question": "what is this item?",
+        "choices": [
+            "air fryer",
+            "microwave",
+            "deep fryer",
+            "toaster"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2623",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2623.jpg",
+        "question": "Ok, here's the long side of the other side of the box. Let me know if there's any conventional oven instructions here for temperature and time. And hopefully these pictures are at least. ",
+        "choices": [
+            "floral",
+            "jan 27 2013",
+            "chives",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "186",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/186.jpg",
+        "question": "What is this CD?",
+        "choices": [
+            "technet subscription",
+            "microsoft office installation disc",
+            "trial version of windows software",
+            "music album by a popular artist"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1655",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1655.jpg",
+        "question": "What does this screen say?",
+        "choices": [
+            "nothing",
+            "invisible",
+            "silent",
+            "empty"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1073",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1073.jpg",
+        "question": "What is the e-mail address on this page?",
+        "choices": [
+            "lean beef steaks",
+            "unanswerable",
+            "sidewalk chalk",
+            "425"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4146",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4146.jpg",
+        "question": "Tell me what color this yarn is please.",
+        "choices": [
+            "turquoise",
+            "burnt orange",
+            "teal",
+            "emerald green"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1710",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1710.jpg",
+        "question": "what is this?",
+        "choices": [
+            "backpack",
+            "bag",
+            "bottle",
+            "box"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2770",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2770.jpg",
+        "question": "What's on the screen?",
+        "choices": [
+            "peas",
+            "unanswerable",
+            "dell laptop",
+            "carb ultimate blocker"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "951",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/951.jpg",
+        "question": "I was wondering if you could read what was on the screen? I hope I got a good picture.",
+        "choices": [
+            "oakland athletics",
+            "unanswerable",
+            "sunlight shining through leaves",
+            "bottle"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3123",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3123.jpg",
+        "question": "What color is the sock?",
+        "choices": [
+            "pink",
+            "white",
+            "blue",
+            "black"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2626",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2626.jpg",
+        "question": "What does this label say?",
+        "choices": [
+            "cocoa butter body scrub",
+            "coconut scented body lotion",
+            "lavender-scented bar soap",
+            "shea moisturizing shower wash"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1844",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1844.jpg",
+        "question": "I apologize for the rain, but can you please tell me what's in this bottle?",
+        "choices": [
+            "mustard",
+            "ketchup",
+            "vinegar",
+            "mayonnaise"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1282",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1282.jpg",
+        "question": "Ok I moved the camera to the right a little bit and we'll try again. What kind is this? Thanks ",
+        "choices": [
+            "blueberry muffin",
+            "strawberry danish",
+            "chocolate croissant",
+            "cinnamon pastry"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2783",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2783.jpg",
+        "question": "What temperature is the thermostat set on?",
+        "choices": [
+            "songs life",
+            "unanswerable",
+            "icons",
+            "macaroni cheese"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1964",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1964.jpg",
+        "question": "What does it say on this shirt?",
+        "choices": [
+            "something",
+            "nothing",
+            "anything",
+            "everything"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3418",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3418.jpg",
+        "question": "What kind of meat is this?",
+        "choices": [
+            "marinated chicken breast",
+            "seasoned ground beef",
+            "honey glazed ham",
+            "boneless pork roast"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "424",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/424.jpg",
+        "question": "Just say.",
+        "choices": [
+            "restaurant",
+            "ashtray",
+            "475",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3976",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3976.jpg",
+        "question": "What is this?",
+        "choices": [
+            "unanswerable",
+            "spicy eggnog",
+            "pork chops",
+            "can"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3474",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3474.jpg",
+        "question": "What is in this can?",
+        "choices": [
+            "tomato paste",
+            "marinara sauce",
+            "spaghetti sauce",
+            "alfredo sauce"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "577",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/577.jpg",
+        "question": "What is the access code?",
+        "choices": [
+            "799852896",
+            "unanswerable",
+            "vending machine",
+            "figurine"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3166",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3166.jpg",
+        "question": "Is this shampoo or hand lotion?",
+        "choices": [
+            "conditioner",
+            "shampoo",
+            "hand sanitizer",
+            "lotion"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3338",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3338.jpg",
+        "question": "What color is this bottle?",
+        "choices": [
+            "red",
+            "blue",
+            "white",
+            "green"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4102",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4102.jpg",
+        "question": "What space is this?",
+        "choices": [
+            "middle left",
+            "unanswerable",
+            "turkey dinner",
+            "soap"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2703",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2703.jpg",
+        "question": "What is this label? Thank you.",
+        "choices": [
+            "unanswerable",
+            "crushed chillies",
+            "23442",
+            "bubble bath"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4166",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4166.jpg",
+        "question": "Can you please tell me what this bottle say what this bottle is please?",
+        "choices": [
+            "parsley soy sauce limeade",
+            "basil vinegar orange juice",
+            "thyme olive oil grapefruit juice",
+            "herb garlic lemon juice"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4019",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4019.jpg",
+        "question": "What is this?",
+        "choices": [
+            "caramelized balsamic glaze",
+            "saut\u00e9ed garlic herb blend",
+            "grilled onion mushroom seasoning",
+            "roasted pepper steak marinade"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1880",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1880.jpg",
+        "question": "What is this?",
+        "choices": [
+            "cabinet",
+            "475",
+            "unanswerable",
+            "windows update install"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3525",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3525.jpg",
+        "question": "What is in this jar?",
+        "choices": [
+            "unanswerable",
+            "purple",
+            "i phones",
+            "fedex"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1699",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1699.jpg",
+        "question": "What do I use this for?",
+        "choices": [
+            "hammer",
+            "wrench",
+            "screwdriver",
+            "blender"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "479",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/479.jpg",
+        "question": "What answers do I type in to win the prize",
+        "choices": [
+            "zpc",
+            "woa",
+            "vld",
+            "xqb"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3224",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3224.jpg",
+        "question": "I want to know what this is.  I'm sorry didn't use the front facing camera the first time.  Ignore the first picture.",
+        "choices": [
+            "unanswerable",
+            "fool upside down",
+            "death cab for cutie codes keys",
+            "ransom down dark hall *stranger my face by lois duncan"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2612",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2612.jpg",
+        "question": "What do the big gray clouds look like in the sky?",
+        "choices": [
+            "big grey clouds",
+            "small, white clouds",
+            "medium-sized, dark clouds",
+            "thin, wispy clouds"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1611",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1611.jpg",
+        "question": "Whats the expiration date on this mayonnaise please? ",
+        "choices": [
+            "book",
+            "windows 7",
+            "pineapple chunks",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1461",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1461.jpg",
+        "question": "What color is this yarn?",
+        "choices": [
+            "yellow",
+            "green",
+            "purple",
+            "blue"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2301",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2301.jpg",
+        "question": "what does the display say?",
+        "choices": [
+            "dove",
+            "$150 reward when you sign up for chase card",
+            "unanswerable",
+            "big easy bold"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3721",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3721.jpg",
+        "question": "What scent is this?",
+        "choices": [
+            "lemongrass",
+            "eucalyptus",
+            "orange blossom",
+            "french lavender"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3264",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3264.jpg",
+        "question": "What is this?",
+        "choices": [
+            "accelerator pedal",
+            "steering wheel",
+            "windshield wiper switch",
+            "door handle"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1447",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1447.jpg",
+        "question": "What title is this?",
+        "choices": [
+            "eighties",
+            "nineties",
+            "seventies",
+            "sixties"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2356",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2356.jpg",
+        "question": "What is this a picture of?",
+        "choices": [
+            "clipboard",
+            "printer",
+            "mouse",
+            "keyboard"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1235",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1235.jpg",
+        "question": "Can you tell me what my rate is please?",
+        "choices": [
+            "chili beans",
+            "microwave",
+            "unanswerable",
+            "swords horizontal"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "17",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/17.jpg",
+        "question": "Can you see if this is 32 bit or 64 bit?  Thanks.",
+        "choices": [
+            "01 07 12",
+            "unanswerable",
+            "fritos",
+            "delete partition f3"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3397",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3397.jpg",
+        "question": "What is in this spray bottle?",
+        "choices": [
+            "ball",
+            "cookies",
+            "unanswerable",
+            "baby walker"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1859",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1859.jpg",
+        "question": "Color is this shirt?",
+        "choices": [
+            "brown",
+            "green",
+            "yellow",
+            "black"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "907",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/907.jpg",
+        "question": "what is this",
+        "choices": [
+            "sunlight shining through leaves",
+            "unanswerable",
+            "kitchen dry set 4",
+            "3:42"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2798",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2798.jpg",
+        "question": "whats in this can?",
+        "choices": [
+            "diet dr pepper",
+            "sprite",
+            "mountain dew",
+            "coke zero"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2556",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2556.jpg",
+        "question": "Now can you see the order number for this necklace and bracelet, and this Avon booklet?",
+        "choices": [
+            "558 504",
+            "558 503",
+            "557 503",
+            "554 503"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4044",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4044.jpg",
+        "question": "What is this?",
+        "choices": [
+            "dish soap",
+            "toothpaste",
+            "hand lotion",
+            "hand sanitizer"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1690",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1690.jpg",
+        "question": "What is this?",
+        "choices": [
+            "mascara",
+            "vaseline",
+            "lip balm",
+            "blistex"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1661",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1661.jpg",
+        "question": "When does this expire?",
+        "choices": [
+            "toy",
+            "clam chowder",
+            "gt",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1555",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1555.jpg",
+        "question": "Is this Life is Beautiful?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1410",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1410.jpg",
+        "question": "Hi do the sheets that are directly behind the, do the top sheets directly behind each respective fitted sheet match each other?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2349",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2349.jpg",
+        "question": "some time ya know",
+        "choices": [
+            "unanswerable",
+            "prokaryotic eukaryotic cells",
+            "coffee mug",
+            "youtube"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2188",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2188.jpg",
+        "question": "What is on this shirt?",
+        "choices": [
+            "tom brady logo",
+            "dale earnhart logo",
+            "michael jordan logo",
+            "lebron james logo"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3296",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3296.jpg",
+        "question": "What does it say on the screen?",
+        "choices": [
+            "unanswerable",
+            "5 malaysian ringgit",
+            "alfredo",
+            "milk thistle"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1365",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1365.jpg",
+        "question": "What is this box?",
+        "choices": [
+            "meatballs sausage",
+            "jacket",
+            "unanswerable",
+            "meatloaf"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1218",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1218.jpg",
+        "question": "What's this picture of?",
+        "choices": [
+            "macbook pro",
+            "lenovo thinkpad",
+            "microsoft surface pro",
+            "samsung galaxy tab"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "629",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/629.jpg",
+        "question": "is there anything on the screen thank you",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3412",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3412.jpg",
+        "question": "What movie is this poster for?",
+        "choices": [
+            "vampire slayer: a tale of presidents",
+            "the lincoln files: secrets of the undead",
+            "the hunt for abraham lincoln",
+            "abraham lincoln vampire hunter"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "88",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/88.jpg",
+        "question": "Is there a button I need to press to make it resume? Or do I just wait?",
+        "choices": [
+            "unanswerable",
+            "march 21 2012",
+            "unclear",
+            "directly under large volume button on left side"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3158",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3158.jpg",
+        "question": "i know this is bre but what flavor of brie is it please?",
+        "choices": [
+            "blueberry",
+            "chicken",
+            "salmon",
+            "strawberry"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1028",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1028.jpg",
+        "question": "What exactly does it show on the screen?",
+        "choices": [
+            "unstable image",
+            "white pink",
+            "carried away",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3632",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3632.jpg",
+        "question": "what is this? please describe.",
+        "choices": [
+            "arm",
+            "this leg",
+            "ear",
+            "foot"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "97",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/97.jpg",
+        "question": "Can you tell me if there's any local Seattle beers on this menu?",
+        "choices": [
+            "1 dollar",
+            "flamin hot cheetos",
+            "crackers",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3829",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3829.jpg",
+        "question": "Where is this shirt?",
+        "choices": [
+            "in the washing machine",
+            "at the dry cleaners",
+            "on a hanger",
+            "on person"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1915",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1915.jpg",
+        "question": "What kind of meds are these?",
+        "choices": [
+            "thyme",
+            "unanswerable",
+            "emergency alert system",
+            "handsome just like daddy"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1554",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1554.jpg",
+        "question": "Is this enough V8 juice?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3566",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3566.jpg",
+        "question": "What is this product?",
+        "choices": [
+            "diet pepsi",
+            "regular coke",
+            "sparkling water",
+            "coffee"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "914",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/914.jpg",
+        "question": "Does the screen say anything?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3515",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3515.jpg",
+        "question": "Can you tell me what this meat packet is? Thank you.",
+        "choices": [
+            "pork chops",
+            "tofu cubes",
+            "chicken breasts",
+            "salmon fillet"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4276",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4276.jpg",
+        "question": "How much this?",
+        "choices": [
+            "unanswerable",
+            "cjo",
+            "w2nmv5fz",
+            "chicken noodle soup"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3967",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3967.jpg",
+        "question": "What kind of chips are these?",
+        "choices": [
+            "lays classic",
+            "doritos spicy nacho",
+            "pringles sour cream and onion",
+            "cheetos puffs"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4300",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4300.jpg",
+        "question": "Please tell me what this is?",
+        "choices": [
+            "dark magic",
+            "neon yellow garment",
+            "spray fine mist evenly on damp dry hair work through hari style",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2030",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2030.jpg",
+        "question": "What color is this please.",
+        "choices": [
+            "blue green",
+            "purple orange",
+            "yellow black",
+            "red white"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2476",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2476.jpg",
+        "question": "Return install button on this screen.",
+        "choices": [
+            "couch",
+            "red pepper",
+            "unanswerable",
+            "75 degrees"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2008",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2008.jpg",
+        "question": "What is the tv showing?",
+        "choices": [
+            "cooking show",
+            "racecar",
+            "documentary on wildlife",
+            "football game"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "931",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/931.jpg",
+        "question": "What's being displayed on my screen?",
+        "choices": [
+            "tomato sauce",
+            "ohio university",
+            "unanswerable",
+            "cheez crackers"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1301",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1301.jpg",
+        "question": "What is this?",
+        "choices": [
+            "book",
+            "smartphone",
+            "magazine",
+            "laptop"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "882",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/882.jpg",
+        "question": "What does it say on the screen?",
+        "choices": [
+            "800 346 9988 pandoracom",
+            "800 643 2112 siriusxmcom",
+            "800 555 1234 spotifycom",
+            "800 789 5678 iheartradiocom"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "181",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/181.jpg",
+        "question": "Real pun.",
+        "choices": [
+            "toy car",
+            "unanswerable",
+            "nib",
+            "pinto beans"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3637",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3637.jpg",
+        "question": "What are these instructions for?",
+        "choices": [
+            "car",
+            "phone",
+            "television",
+            "computer"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "455",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/455.jpg",
+        "question": "What is this thing?",
+        "choices": [
+            "tablet",
+            "desktop",
+            "printer",
+            "laptop"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4261",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4261.jpg",
+        "question": "Ok, move the box to the left. Can you read the label now if it says calming or bedtime? That would be the flavor of the tea, the herbal.",
+        "choices": [
+            "unanswerable",
+            "20",
+            "aktrr",
+            "semi sweet"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2821",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2821.jpg",
+        "question": "What is this?",
+        "choices": [
+            "meat",
+            "butter",
+            "batter",
+            "bread"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3928",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3928.jpg",
+        "question": "What kind of vitamins are these?",
+        "choices": [
+            "unanswerable",
+            "calming",
+            "book",
+            "zipper"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "809",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/809.jpg",
+        "question": "Do you guys see the word mac ID? And if you do, what's the Mac ID number?",
+        "choices": [
+            "granola",
+            "ben nevis 10 years old scotch whiskey",
+            "woman",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2876",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2876.jpg",
+        "question": "What is in this box?",
+        "choices": [
+            "hamsters in salsa verde",
+            "kittens in a pickle juice",
+            "porcupines in tomato sauce",
+            "hedgehogs in marinara sauce"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "472",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/472.jpg",
+        "question": "What is that a picture of?",
+        "choices": [
+            "typewriter champagne flute",
+            "mouse whiskey tumbler",
+            "computer monitor beer mug",
+            "keyboard wine glass"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2177",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2177.jpg",
+        "question": "Yes, this is the front of an HP probook laptop. I just need to know if there's anything visible that looks like it could be a slot for a card reader? Thank you.",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3577",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3577.jpg",
+        "question": "Does this look dirty? Thank you.",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "971",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/971.jpg",
+        "question": "Okay so we're in the boot menu I'd like to go to USB flash drive does it show where that is?  Am I on it if not does it show how to move to it?  Arrow...",
+        "choices": [
+            "male",
+            "unanswerable",
+            "andes mints",
+            "ckin2u"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1511",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1511.jpg",
+        "question": "What is this?",
+        "choices": [
+            "nutribullet life changing recipes",
+            "green white",
+            "navy blue",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1220",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1220.jpg",
+        "question": "Could you please tell me what this fragrance is?  Thank you.",
+        "choices": [
+            "optimal aroma",
+            "ideal intensity",
+            "perfect strength",
+            "excellent power"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1912",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1912.jpg",
+        "question": "What kind of rice is this? ",
+        "choices": [
+            "brown rice",
+            "4 cheese",
+            "basmati rice",
+            "jasmine rice"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2241",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2241.jpg",
+        "question": "What's in this bag?  ",
+        "choices": [
+            "broccoli",
+            "carrots",
+            "apples",
+            "bananas"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3289",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3289.jpg",
+        "question": "What's this?",
+        "choices": [
+            "mouse",
+            "printer",
+            "cpu",
+            "keyboard"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "528",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/528.jpg",
+        "question": "Can you see actually the whole screen now and did it actually change when I hit enter?",
+        "choices": [
+            "chicken pot pie",
+            "fudge covered oreos",
+            "double stuff oreo",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "123",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/123.jpg",
+        "question": "Yeah, it should be fine, I'm just trying to post it online so someone can see all the inputs and connectors and things like that. If you can see those, then yeah, email it to me at mike@melo.com",
+        "choices": [
+            "towel",
+            "unanswerable",
+            "2.574",
+            "cookies"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3717",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3717.jpg",
+        "question": "What is this?",
+        "choices": [
+            "milk",
+            "wine",
+            "juice",
+            "water"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1973",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1973.jpg",
+        "question": "What is this?",
+        "choices": [
+            "lysol sanitizing wipes",
+            "paper towels",
+            "clorox bleach wipes",
+            "hand soap"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3883",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3883.jpg",
+        "question": "What kind of card is this?",
+        "choices": [
+            "starbucks gift card",
+            "walmart gift card",
+            "barnes noble gift card",
+            "amazon gift card"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1601",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1601.jpg",
+        "question": "What is this nondescript object?",
+        "choices": [
+            "5 malaysian ringgit",
+            "mrs dash",
+            "unanswerable",
+            "pecan"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1767",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1767.jpg",
+        "question": "in this box",
+        "choices": [
+            "triangle",
+            "circle",
+            "cross",
+            "square"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2234",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2234.jpg",
+        "question": "What is this product?",
+        "choices": [
+            "veggie burger",
+            "maple syrup",
+            "nutella",
+            "vegemite"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4043",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4043.jpg",
+        "question": "What is this?",
+        "choices": [
+            "macaroni",
+            "ziti",
+            "rigatoni",
+            "penne"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3834",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3834.jpg",
+        "question": "What is this a model of?",
+        "choices": [
+            "sprite",
+            "elf",
+            "superhero",
+            "soda"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2687",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2687.jpg",
+        "question": "Could you tell me what brand this is? Thank you.",
+        "choices": [
+            "grace",
+            "elegance",
+            "serenity",
+            "harmony"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2675",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2675.jpg",
+        "question": "Please tell me where I am right now.  What's the name of this street?",
+        "choices": [
+            "emblem polo rider initials uspa",
+            "holds item up",
+            "bed",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4231",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4231.jpg",
+        "question": "What color is this shirt?",
+        "choices": [
+            "red",
+            "green",
+            "yellow",
+            "blue"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "992",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/992.jpg",
+        "question": "What is written on that computer screen, please?",
+        "choices": [
+            "install mac os x",
+            "optimize ios performance",
+            "update windows operating system",
+            "reinstall android software"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2148",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2148.jpg",
+        "question": "What is this?",
+        "choices": [
+            "pancake",
+            "burger",
+            "spaghetti",
+            "pudding"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2697",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2697.jpg",
+        "question": "What is this package?",
+        "choices": [
+            "tea bag",
+            "coffee beans",
+            "sugar",
+            "creamer"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "871",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/871.jpg",
+        "question": "Can you read any of the text on the bottle to tell me what it is? Thank you.",
+        "choices": [
+            "unanswerable",
+            "maroon",
+            "outback steakhouse steak rub no salt",
+            "text"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "460",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/460.jpg",
+        "question": "please let me know what's on my screen right now.",
+        "choices": [
+            "strawberry egg",
+            "unanswerable",
+            "building",
+            "on table"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2131",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2131.jpg",
+        "question": "Whats the weather like? ",
+        "choices": [
+            "windy",
+            "sunny",
+            "snowy",
+            "cloudy"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2278",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2278.jpg",
+        "question": "What color is this? ",
+        "choices": [
+            "green",
+            "blue",
+            "red",
+            "purple"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3062",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3062.jpg",
+        "question": "EXPLAIN HOW CAN YOU DETERMINE OF A SOLUTION EXPERIMENT USING CELLS?",
+        "choices": [
+            "unanswerable",
+            "02616272",
+            "brown green red",
+            "cashews"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3006",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3006.jpg",
+        "question": "Which product is this?",
+        "choices": [
+            "processing",
+            "pkrsf",
+            "framed living room art",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4270",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4270.jpg",
+        "question": "What kind of pop is in this can?",
+        "choices": [
+            "sprite",
+            "mountain dew",
+            "nestea",
+            "coca-cola"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1455",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1455.jpg",
+        "question": "What is this? What is this?",
+        "choices": [
+            "chair",
+            "desk",
+            "sofa",
+            "table"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2040",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2040.jpg",
+        "question": "What is this?",
+        "choices": [
+            "50 dollar bill",
+            "1 dollar bill",
+            "10 dollar bill",
+            "100 dollar bill"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4273",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4273.jpg",
+        "question": "What can good is this?",
+        "choices": [
+            "cajun night before christmas",
+            "dell laptop",
+            "welcome to directv",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2630",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2630.jpg",
+        "question": "What is it?",
+        "choices": [
+            "goblet fire",
+            "unanswerable",
+            "pork loin",
+            "ragu tomato basil"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4209",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4209.jpg",
+        "question": "What is that?",
+        "choices": [
+            "big toe",
+            "a pinky finger",
+            "a thumb",
+            "an earlobe"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1891",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1891.jpg",
+        "question": "What's inside this image?",
+        "choices": [
+            "hand",
+            "arm",
+            "head",
+            "leg"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "57",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/57.jpg",
+        "question": "What is on the pillowcase?",
+        "choices": [
+            "nevada",
+            "texas",
+            "california",
+            "arizona"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "114",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/114.jpg",
+        "question": "Is it impossible for you to read the captcha image in this picture? Thanks.",
+        "choices": [
+            "pineapple chunks",
+            "radio",
+            "unanswerable",
+            "becks"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "553",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/553.jpg",
+        "question": "What's on the screen?",
+        "choices": [
+            "startup repair window",
+            "login screen",
+            "desktop wallpaper",
+            "file explorer window"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1412",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1412.jpg",
+        "question": "What is that?",
+        "choices": [
+            "shirt",
+            "robe",
+            "towel",
+            "coat"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2119",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2119.jpg",
+        "question": "What is this?",
+        "choices": [
+            "a violin bow",
+            "cane",
+            "a walking stick",
+            "a gardening tool"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4262",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4262.jpg",
+        "question": "What is it? I did.",
+        "choices": [
+            "gwen stefani cd",
+            "taylor swift vinyl record",
+            "michael jackson mp3 download",
+            "beyonce cassette tape"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2937",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2937.jpg",
+        "question": "What color is this?",
+        "choices": [
+            "green",
+            "blue",
+            "purple",
+            "orange"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3638",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3638.jpg",
+        "question": "What kind of pill is this?",
+        "choices": [
+            "confectioners sugar",
+            "giovanni",
+            "cat",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3415",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3415.jpg",
+        "question": "Is this the shampoo?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3331",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3331.jpg",
+        "question": "What is this?",
+        "choices": [
+            "tablet",
+            "cell phone",
+            "landline phone",
+            "calculator"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "68",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/68.jpg",
+        "question": "What does the screen say?",
+        "choices": [
+            "beige",
+            "unanswerable",
+            "grey white stripes",
+            "bedcover"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3646",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3646.jpg",
+        "question": "Is this readable?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "567",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/567.jpg",
+        "question": "What does it say on the screen?",
+        "choices": [
+            "are you sure you want to continue",
+            "are you ready to update your software now",
+            "do you want to delete all your files and settings",
+            "do you want to restore your computer using system cd"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1249",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1249.jpg",
+        "question": "Please identify. ",
+        "choices": [
+            "drug jar",
+            "prescription vial",
+            "pill bottle",
+            "medicine container"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2291",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2291.jpg",
+        "question": "What color is this shirt?",
+        "choices": [
+            "yellow",
+            "green",
+            "red",
+            "blue"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "953",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/953.jpg",
+        "question": "I'm looking for the image capture on this page. I just need to know what it is so I can type it into the edit box, thanks.",
+        "choices": [
+            "unanswerable",
+            "animal print black grey white",
+            "sleepytime herbal tea",
+            "mashed potatoes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2286",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2286.jpg",
+        "question": "Hi, could you please tell me what's in the can in my right hand? Thank you.",
+        "choices": [
+            "flamin hot cheetos",
+            "dove",
+            "unanswerable",
+            "pink candles"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "860",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/860.jpg",
+        "question": "What kind of coffee is this?",
+        "choices": [
+            "espresso",
+            "decaf",
+            "tassimo",
+            "latte"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3417",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3417.jpg",
+        "question": "What is the label on this bottle say?",
+        "choices": [
+            "roast beef",
+            "unanswerable",
+            "off low high warm",
+            "do you want following program to make changes to this computer java auto updater"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1698",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1698.jpg",
+        "question": "Please tell me the name of this snack.",
+        "choices": [
+            "pretzels",
+            "chocolate bars",
+            "cookies",
+            "popcorn"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1388",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1388.jpg",
+        "question": "Let's give this a try, can you tell me what this is? ",
+        "choices": [
+            "potatoes",
+            "broccoli",
+            "beans",
+            "tomatoes"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3871",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3871.jpg",
+        "question": "What type of K Cup is this?",
+        "choices": [
+            "unanswerable",
+            "blue",
+            "bluetooth headset",
+            "watch"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2365",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2365.jpg",
+        "question": "What is the name of this seasoning?",
+        "choices": [
+            "rosemary",
+            "paprika",
+            "dried thyme",
+            "mrs dash"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1987",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1987.jpg",
+        "question": "What is this?",
+        "choices": [
+            "ginger ale",
+            "sprite",
+            "coca-cola",
+            "tonic water"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "725",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/725.jpg",
+        "question": "What is this?",
+        "choices": [
+            "lung",
+            "liver",
+            "stomach",
+            "esophagus"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "825",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/825.jpg",
+        "question": "It says books.",
+        "choices": [
+            "white pink",
+            "eclipse",
+            "lysol",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "95",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/95.jpg",
+        "question": "Can you see what's on the screen?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1158",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1158.jpg",
+        "question": "What's written here?",
+        "choices": [
+            "wed 3 10 12 10:05 am back in 10 mins",
+            "thu 4 1 12 10:55 am back in 5 mins",
+            "fri 5 2 12 11:00 am back in 20 mins",
+            "tue 2 11 12 11:15 am back in 15 mins"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2930",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2930.jpg",
+        "question": "What is currently on the TV screen?",
+        "choices": [
+            "a sports game",
+            "a cartoon show",
+            "an infomercial",
+            "nothing"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "227",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/227.jpg",
+        "question": "What is this?",
+        "choices": [
+            "ransom down dark hall *stranger my face by lois duncan",
+            "lean steak mince",
+            "unanswerable",
+            "software license terms"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3152",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3152.jpg",
+        "question": "What medicine is in this bottle?",
+        "choices": [
+            "dove lady speed stick",
+            "use washer dryer swipe card",
+            "sunflower seeds",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4153",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4153.jpg",
+        "question": "I'm trying to determine the expiration date on this yogurt. Thanks.",
+        "choices": [
+            "2000",
+            "vvqa",
+            "bread tin teapot",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1299",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1299.jpg",
+        "question": "What color is the shirt I'm wearing?",
+        "choices": [
+            "blackbluelight bluebrownflannel",
+            "yellownavyorangeplaid",
+            "blackbluelight blue brown flannel",
+            "graybrownpinkstriped"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1045",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1045.jpg",
+        "question": "What make is this laptop?",
+        "choices": [
+            "sweet potato chips",
+            "disk error",
+            "zephyrhills",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4065",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4065.jpg",
+        "question": "What is this?",
+        "choices": [
+            "money",
+            "business",
+            "currency",
+            "paper"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2063",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2063.jpg",
+        "question": "what is this and how much it cost",
+        "choices": [
+            "unanswerable",
+            "spaghetti os",
+            "sun",
+            "vizwiz"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3758",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3758.jpg",
+        "question": "I need to know what that measures, if you would. Thank you.",
+        "choices": [
+            "6 third",
+            "9 double",
+            "18 half",
+            "36 quarter"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1670",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1670.jpg",
+        "question": "Please read the contents of the box. ",
+        "choices": [
+            "antacid",
+            "stomach soother",
+            "acid controller",
+            "heartburn reliever"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "985",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/985.jpg",
+        "question": "What is?",
+        "choices": [
+            "pretzels",
+            "potato chips",
+            "trail mix",
+            "chex mix"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2377",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2377.jpg",
+        "question": "What color are the pair of pants that I'm wearing",
+        "choices": [
+            "green",
+            "red",
+            "blue",
+            "yellow"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2235",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2235.jpg",
+        "question": "What is this?",
+        "choices": [
+            "unanswerable",
+            "tv dinner yes",
+            "chicken thigh filets",
+            "lightbulb"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1325",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1325.jpg",
+        "question": "what is this?",
+        "choices": [
+            "cakes",
+            "muffins",
+            "cookies",
+            "biscuits"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1867",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1867.jpg",
+        "question": "What is in this bottle?",
+        "choices": [
+            "alfalfa",
+            "orange soda",
+            "tomato sauce",
+            "rocket fuel"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1252",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1252.jpg",
+        "question": "what ointment is in this bottle thank you.",
+        "choices": [
+            "unanswerable",
+            "lamp",
+            "office 2000",
+            "braille"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4237",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4237.jpg",
+        "question": "What letters do i enter in to win the prize?",
+        "choices": [
+            "premium croutons",
+            "jergens new soft shimmer skin radiance moisturizer",
+            "unanswerable",
+            "roach tablets"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2011",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2011.jpg",
+        "question": "Are these CDs or DVDs? ",
+        "choices": [
+            "floppy disk",
+            "cd",
+            "usb drive",
+            "dvd"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "63",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/63.jpg",
+        "question": "Alright see if you can see the ORCA serial number now.",
+        "choices": [
+            "cloudy",
+            "washer dryer",
+            "unanswerable",
+            "dell"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "823",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/823.jpg",
+        "question": "Give me, give me number for this paper.",
+        "choices": [
+            "gevalia",
+            "unanswerable",
+            "sugar",
+            "ball"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2789",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2789.jpg",
+        "question": "What is this?",
+        "choices": [
+            "vegetable broth",
+            "chicken stock",
+            "tomato soup",
+            "milkshake"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1683",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1683.jpg",
+        "question": "Is there a button on the table? Is there a button on the table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "334",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/334.jpg",
+        "question": "Can you tell me what CD this is?",
+        "choices": [
+            "dog",
+            "book",
+            "10 apr 13",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2884",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2884.jpg",
+        "question": "What color is it?",
+        "choices": [
+            "platinum",
+            "gold",
+            "blue",
+            "silver"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1575",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1575.jpg",
+        "question": "Whats this shirt look like, thanks?",
+        "choices": [
+            "polka dot",
+            "plaid",
+            "striped",
+            "tie dye"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "771",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/771.jpg",
+        "question": "What is on the screen?",
+        "choices": [
+            "television",
+            "laptop",
+            "desktop",
+            "tablet"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "594",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/594.jpg",
+        "question": "is my dick big?",
+        "choices": [
+            "startup repair",
+            "papaya mango",
+            "unanswerable",
+            "buy 1 pizza at menu price receive 1 pizza equal lesser value free expires 12 31 11"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3032",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3032.jpg",
+        "question": "Is this light on?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2006",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2006.jpg",
+        "question": "What is this?",
+        "choices": [
+            "hand cream",
+            "hand sanitizer",
+            "shampoo",
+            "window cleaner"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2624",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2624.jpg",
+        "question": "What is the measure of angle mar?",
+        "choices": [
+            "shoe horn",
+            "password setup screen",
+            "unanswerable",
+            "olympus"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "198",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/198.jpg",
+        "question": "Can you tell me what the screen says?",
+        "choices": [
+            "unanswerable",
+            "tropical punch",
+            "pain relief pm",
+            "toffee cheesecake"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2871",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2871.jpg",
+        "question": "What is this?",
+        "choices": [
+            "chicken tikka masala",
+            "video game",
+            "unanswerable",
+            "michelina chicken teriyaki"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3682",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3682.jpg",
+        "question": "which bog flower remedy is this?",
+        "choices": [
+            "unanswerable",
+            "pabw24nd",
+            "pkrsf",
+            "dollar bill"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "28",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/28.jpg",
+        "question": "Is this a woman?>",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "232",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/232.jpg",
+        "question": "Is it possible then that we have a blank screen? If so this may mean that something is happening.",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3427",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3427.jpg",
+        "question": "What is the title of this DVD?",
+        "choices": [
+            "cars boats motorcycles",
+            "planes trains automobiles",
+            "planes trains wagons",
+            "planes automobiles bicycles"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3588",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3588.jpg",
+        "question": "What flavor is this?",
+        "choices": [
+            "chocolate",
+            "vanilla",
+            "banana",
+            "strawberry"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1559",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1559.jpg",
+        "question": "What is this can?",
+        "choices": [
+            "unanswerable",
+            "5 malaysian ringgit",
+            "creamy chicken",
+            "zipper"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3065",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3065.jpg",
+        "question": "What's in this tin?",
+        "choices": [
+            "stationery",
+            "toys",
+            "cookies",
+            "fish"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2181",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2181.jpg",
+        "question": "What spice is this?",
+        "choices": [
+            "chili powder",
+            "garlic powder",
+            "outback steakhouse steak rub no salt",
+            "montreal steak seasoning"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4035",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4035.jpg",
+        "question": "What is this? It's from Schwans.",
+        "choices": [
+            "meat lovers pizza",
+            "garlic chicken alfredo pizza",
+            "hawaiian style pizza",
+            "spinach and feta pizza"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1050",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1050.jpg",
+        "question": "What letters do I type in to win?",
+        "choices": [
+            "cheesy ham potato",
+            "grass looks dry prickly",
+            "unanswerable",
+            "turkey breast cutlets"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2193",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2193.jpg",
+        "question": "how many people on the bridge how many people on the bridge ",
+        "choices": [
+            "diet",
+            "unanswerable",
+            "beer",
+            "vvqa"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1806",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1806.jpg",
+        "question": "What kind of bottle is this?",
+        "choices": [
+            "75",
+            "fresh living magazine",
+            "unanswerable",
+            "left"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "379",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/379.jpg",
+        "question": "What does the text in this captcha image say?",
+        "choices": [
+            "vodka",
+            "unanswerable",
+            "man walking",
+            "brazil santos"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1344",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1344.jpg",
+        "question": "Is the opened?",
+        "choices": [
+            "unanswerable",
+            "spicy eggnog",
+            "invalid product key",
+            "eclipse"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1003",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1003.jpg",
+        "question": "How do you turn on spoken answers?",
+        "choices": [
+            "mustard",
+            "crushed chillies",
+            "unanswerable",
+            "flashlight"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4121",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4121.jpg",
+        "question": "Is the dialog there now?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3431",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3431.jpg",
+        "question": "What is my desktop showing?",
+        "choices": [
+            "acer",
+            "asus",
+            "toshiba",
+            "lenovo"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2953",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2953.jpg",
+        "question": "is this? What is this?",
+        "choices": [
+            "telephone",
+            "computer",
+            "television",
+            "radio"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2931",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/2931.jpg",
+        "question": "What does my TV screen say?",
+        "choices": [
+            "there is a problem with your internet connection.",
+            "please check your hdmi cable connection.",
+            "your subscription has expired.",
+            "this cable box not authorized for service please call your cable division"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "166",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/166.jpg",
+        "question": "What does this say?",
+        "choices": [
+            "ecaec",
+            "orange fanta",
+            "fettuccine alfredo",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3809",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/3809.jpg",
+        "question": "Alright looking for the input or mode button I have moved the camera in tell me if this is clear.  Thank you.",
+        "choices": [
+            "blurry",
+            "clear",
+            "opaque",
+            "foggy"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1629",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/1629.jpg",
+        "question": "This is a headphone. Can you tell me if it says...if you see the left or the right side of the headphone? There should be an L that indicates that it's the left ear as opposed to the right ear. Thank you.",
+        "choices": [
+            "bowl on paper confetti",
+            "iphone",
+            "cyclone",
+            "unanswerable"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "830",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/830.jpg",
+        "question": "Can you tell what the security warning is saying on this screen?",
+        "choices": [
+            "bbq sauce",
+            "unanswerable",
+            "desktop icons",
+            "ice"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4182",
+        "image_path": "/data/stzhao_data/data_vl/Vizwiz_reformeval/images/4182.jpg",
+        "question": "Would you say this room is illuminated?",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "gt_answers": "B"
+    }
+]

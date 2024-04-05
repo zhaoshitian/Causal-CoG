@@ -1,0 +1,6049 @@
+[
+    {
+        "question_id": "5419655",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5419655.jpg",
+        "question": "What type of drink could be in the pitcher?",
+        "choices": [
+            "soda",
+            "coffee",
+            "juice",
+            "water"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2569735",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2569735.jpg",
+        "question": "What is that book about?",
+        "choices": [
+            "fiction",
+            "history",
+            "calculus",
+            "topology"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "97725",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/97725.jpg",
+        "question": "What's the smaller towel used for?",
+        "choices": [
+            "wet face",
+            "clean counter",
+            "fold clothes",
+            "dry hand"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3611535",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3611535.jpg",
+        "question": "What kind of tomato sauce is there?",
+        "choices": [
+            "teriyaki",
+            "marinara",
+            "pesto",
+            "barbecue"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2890015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2890015.jpg",
+        "question": "What replaced this mode of transportation in the 1800s?",
+        "choices": [
+            "car",
+            "carriage",
+            "horse",
+            "bicycle"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2970175",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2970175.jpg",
+        "question": "What are the ducks swimming in?",
+        "choices": [
+            "lake",
+            "field",
+            "ocean",
+            "pond"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4513245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4513245.jpg",
+        "question": "What popular company makes the computer in the forefront of the image?",
+        "choices": [
+            "hp",
+            "dell",
+            "lenovo",
+            "apple"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "890715",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/890715.jpg",
+        "question": "What season is this?",
+        "choices": [
+            "fall",
+            "summer",
+            "spring",
+            "winter"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5742565",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5742565.jpg",
+        "question": "What kind of bird is this?",
+        "choices": [
+            "hawk",
+            "eagle",
+            "sparrow",
+            "falcon"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4911315",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4911315.jpg",
+        "question": "Is the chair for private or public use?",
+        "choices": [
+            "private",
+            "communal",
+            "shared",
+            "public"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3443085",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3443085.jpg",
+        "question": "What building might this be found in?",
+        "choices": [
+            "library",
+            "hospital",
+            "school",
+            "hotel"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5451555",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5451555.jpg",
+        "question": "What does this child sit on to ride this animal?",
+        "choices": [
+            "stirrups",
+            "saddle",
+            "reins",
+            "bridle"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2472595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2472595.jpg",
+        "question": "What is the object all of the note books are sitting on made of?",
+        "choices": [
+            "glass",
+            "wood",
+            "plastic",
+            "metal"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4725305",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4725305.jpg",
+        "question": "This animal is known for several acute senses including what?",
+        "choices": [
+            "smell",
+            "touch",
+            "taste",
+            "hear"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4768945",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4768945.jpg",
+        "question": "Factory or custom?",
+        "choices": [
+            "handcrafted",
+            "off-the-shelf",
+            "custom",
+            "factory-made"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5363755",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5363755.jpg",
+        "question": "In what section of the store are these fruit typically kept?",
+        "choices": [
+            "produce",
+            "frozen foods",
+            "dairy",
+            "bakery"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "943765",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/943765.jpg",
+        "question": "What is this dog laying on?",
+        "choices": [
+            "bed",
+            "table",
+            "floor",
+            "couch"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3200395",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3200395.jpg",
+        "question": "Where in school would you find this?",
+        "choices": [
+            "cafeteria",
+            "gymnasium",
+            "library",
+            "nurse's office"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2141275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2141275.jpg",
+        "question": "What is the brand and style of ski jacket that the person is wearing?",
+        "choices": [
+            "marmot",
+            "spyder",
+            "north face",
+            "columbia"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1618075",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1618075.jpg",
+        "question": "What nationality is this food?",
+        "choices": [
+            "french",
+            "italian",
+            "american",
+            "chinese"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4783565",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4783565.jpg",
+        "question": "What year is that picture?",
+        "choices": [
+            "1931",
+            "1921",
+            "1941",
+            "1951"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5607565",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5607565.jpg",
+        "question": "What do people do in this room?",
+        "choices": [
+            "sleep",
+            "work",
+            "exercise",
+            "relax"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5683335",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5683335.jpg",
+        "question": "What is the name of the famous tournament for this sport?",
+        "choices": [
+            "roland garros",
+            "wimbledon",
+            "australian open",
+            "us open"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1397405",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1397405.jpg",
+        "question": "What are these vehicles floating on?",
+        "choices": [
+            "water",
+            "air",
+            "space",
+            "land"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "272215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/272215.jpg",
+        "question": "Based on her expression is the woman receving good or bad cell reception?",
+        "choices": [
+            "perfect",
+            "bad",
+            "excellent",
+            "average"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2794915",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2794915.jpg",
+        "question": "What's her side dish?",
+        "choices": [
+            "spaghetti",
+            "salad",
+            "mashed potatoes",
+            "coleslaw"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "100925",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/100925.jpg",
+        "question": "What is over the bed?",
+        "choices": [
+            "curtains",
+            "a shelf for storage",
+            "mosquito net",
+            "air conditioning unit"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1609275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1609275.jpg",
+        "question": "What type of ship is this?",
+        "choices": [
+            "fishing",
+            "military",
+            "cruise",
+            "yacht"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3119285",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3119285.jpg",
+        "question": "How big is the ball used in this sport?",
+        "choices": [
+            "9.25 inches",
+            "10.5 inches",
+            "8.75 inches",
+            "7.85 inches"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "684095",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/684095.jpg",
+        "question": "This school is segregated for which gender?",
+        "choices": [
+            "undecided",
+            "male",
+            "gender-neutral",
+            "co-ed"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2224075",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2224075.jpg",
+        "question": "How do we know this is not a woodpecker?",
+        "choices": [
+            "habitat",
+            "beak shape",
+            "color",
+            "size"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1665215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1665215.jpg",
+        "question": "Where can i buy a tv like that on the internet?",
+        "choices": [
+            "amazon",
+            "target",
+            "best buy",
+            "ebay"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "177415",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/177415.jpg",
+        "question": "What type of building is this?",
+        "choices": [
+            "museum",
+            "school",
+            "cathedral",
+            "castle"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1449325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1449325.jpg",
+        "question": "What is the weather like?",
+        "choices": [
+            "sunny",
+            "cloudy",
+            "stormy",
+            "rainy"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3377055",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3377055.jpg",
+        "question": "Is this person at the office at home or at a hospital?",
+        "choices": [
+            "gym",
+            "school",
+            "office",
+            "hospital"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3301225",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3301225.jpg",
+        "question": "What pose are these women sitting in?",
+        "choices": [
+            "cross-legged",
+            "yoga position",
+            "indian style",
+            "crisscross applesauce"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "751735",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/751735.jpg",
+        "question": "How do you pay for parking here?",
+        "choices": [
+            "smartphone",
+            "quarter",
+            "postage stamp",
+            "credit card"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4348675",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4348675.jpg",
+        "question": "Who rides this type of vehicle?",
+        "choices": [
+            "bus driver",
+            "tour guide",
+            "local resident",
+            "tourist"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5520655",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5520655.jpg",
+        "question": "What is the name of this apparatus?",
+        "choices": [
+            "ladder",
+            "staircase",
+            "pulley",
+            "ramp"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3473775",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3473775.jpg",
+        "question": "What sort of establishment serves drinks that may contain very small versions of these?",
+        "choices": [
+            "coffee shop",
+            "movie theater",
+            "grocery store",
+            "bar"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1251295",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1251295.jpg",
+        "question": "Which type of cloth is used on the table shown in this picture?",
+        "choices": [
+            "placemat",
+            "curtain",
+            "napkin",
+            "tablecloth"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "727705",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/727705.jpg",
+        "question": "Is the man working or playing with the disc?",
+        "choices": [
+            "work",
+            "watch",
+            "eat",
+            "play"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5393905",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5393905.jpg",
+        "question": "What is this object mad out of?",
+        "choices": [
+            "glass",
+            "wood",
+            "plastic",
+            "metal"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5442015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5442015.jpg",
+        "question": "How can he fix this on?",
+        "choices": [
+            "sew",
+            "glue",
+            "tape",
+            "tie"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "688525",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/688525.jpg",
+        "question": "What band is this car?",
+        "choices": [
+            "audi",
+            "ford",
+            "bmw",
+            "mercedes"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5218045",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5218045.jpg",
+        "question": "What mountain range is this?",
+        "choices": [
+            "alp",
+            "rockies",
+            "andes",
+            "himalayas"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4398405",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4398405.jpg",
+        "question": "Where can i get a coffee table like this?",
+        "choices": [
+            "furniture store",
+            "home decor boutique",
+            "coffee shop",
+            "online marketplace"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3841115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3841115.jpg",
+        "question": "What kind of bed is this in the photo?",
+        "choices": [
+            "truck",
+            "plane",
+            "car",
+            "boat"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "918395",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/918395.jpg",
+        "question": "When might you dress like this?",
+        "choices": [
+            "birthday party",
+            "job interview",
+            "grocery shopping",
+            "meet"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5273795",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5273795.jpg",
+        "question": "What does the traffic signal indicate drivers should do?",
+        "choices": [
+            "speed up",
+            "go",
+            "stop",
+            "yield"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "226605",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/226605.jpg",
+        "question": "What time of day is this?",
+        "choices": [
+            "evening",
+            "night",
+            "midnight",
+            "afternoon"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1538325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1538325.jpg",
+        "question": "What kind is train is that?",
+        "choices": [
+            "miniature",
+            "steam",
+            "wooden",
+            "bullet"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3853775",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3853775.jpg",
+        "question": "What type of drink is in the bottle?",
+        "choices": [
+            "soda",
+            "water",
+            "wine",
+            "beer"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2673215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2673215.jpg",
+        "question": "How was the red highlights on this black and white photo made?",
+        "choices": [
+            "light exposure",
+            "digital filter",
+            "photoshop",
+            "paint"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1553195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1553195.jpg",
+        "question": "What program can i used to make my photos look like this one?",
+        "choices": [
+            "canva",
+            "microsoft word",
+            "lightroom",
+            "photoshop"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4222405",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4222405.jpg",
+        "question": "When was this type of sport invented?",
+        "choices": [
+            "1839",
+            "1910",
+            "1776",
+            "1892"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1186255",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1186255.jpg",
+        "question": "Name the brand or model of the refrigerator shown in this picture?",
+        "choices": [
+            "samsung",
+            "whirlpool",
+            "kenmore",
+            "frigidaire"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4669865",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4669865.jpg",
+        "question": "What sort of things might be sold in this establishment?",
+        "choices": [
+            "furniture",
+            "food",
+            "electronics",
+            "clothing"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2885795",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2885795.jpg",
+        "question": "What toy is the dog playing with?",
+        "choices": [
+            "stuffed animal",
+            "frisbee",
+            "chew bone",
+            "tennis ball"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4570785",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4570785.jpg",
+        "question": "How creepy is the decor in this room?",
+        "choices": [
+            "quite",
+            "very",
+            "not at all",
+            "somewhat"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4295985",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4295985.jpg",
+        "question": "What common appliance is missing from this kitchen?",
+        "choices": [
+            "refrigerator",
+            "blender",
+            "microwave",
+            "dishwasher"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "72815",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/72815.jpg",
+        "question": "What are the horse breeds that the people are riding?",
+        "choices": [
+            "quarter horse",
+            "appaloosa",
+            "arabian",
+            "shetland pony"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5246115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5246115.jpg",
+        "question": "What is being hauled in this train?",
+        "choices": [
+            "oil",
+            "passengers",
+            "cars",
+            "coal"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4494805",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4494805.jpg",
+        "question": "What physical traits does this skill require a person to have?",
+        "choices": [
+            "strength",
+            "intelligence",
+            "dexterity",
+            "agility"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2703035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2703035.jpg",
+        "question": "Is the fruit in this picture sweet or sour?",
+        "choices": [
+            "bitter",
+            "sweet",
+            "sour",
+            "salty"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1220475",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1220475.jpg",
+        "question": "What is used to make these bowls that color?",
+        "choices": [
+            "dye",
+            "glaze",
+            "polish",
+            "paint"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3973095",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3973095.jpg",
+        "question": "Why aren't the animals eating meat?",
+        "choices": [
+            "their digestive systems are adapted to a vegetarian diet.",
+            "they eat grass",
+            "a recent change in their environment has limited their access to prey animals.",
+            "they have developed a preference for fruits and vegetables."
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4701135",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4701135.jpg",
+        "question": "What wood are those cabinets made of?",
+        "choices": [
+            "cherry",
+            "oak",
+            "mahogany",
+            "walnut"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "319715",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/319715.jpg",
+        "question": "What do they call this type of pattern on this bedspread?",
+        "choices": [
+            "comforter",
+            "mattress pad",
+            "quilt",
+            "duvet"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4318275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4318275.jpg",
+        "question": "What movie is the man on the paper from?",
+        "choices": [
+            "the matrix",
+            "jurassic park",
+            "twilight",
+            "the hunger games"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "241575",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/241575.jpg",
+        "question": "What mountain are these hikers climbing up?",
+        "choices": [
+            "mckinley",
+            "denali",
+            "kilimanjaro",
+            "everest"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3486315",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3486315.jpg",
+        "question": "Why is this dangerous?",
+        "choices": [
+            "freeze",
+            "drown",
+            "suffocate",
+            "trip"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1291865",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1291865.jpg",
+        "question": "Where is this sport played?",
+        "choices": [
+            "court",
+            "field",
+            "pool",
+            "track"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1759945",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1759945.jpg",
+        "question": "During the great depression homeless people that hitched rides on this were said to be riding what?",
+        "choices": [
+            "bus",
+            "rail",
+            "bicycle",
+            "car"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4878975",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4878975.jpg",
+        "question": "How do i make the kind of cake in this photo?",
+        "choices": [
+            "bake",
+            "fry",
+            "steam",
+            "whip"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1858375",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1858375.jpg",
+        "question": "How do we know this larger animal is a male?",
+        "choices": [
+            "antlers",
+            "mane",
+            "tusk",
+            "fangs"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3774865",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3774865.jpg",
+        "question": "Name the type of hat the man is wearing?",
+        "choices": [
+            "fedora",
+            "top hat",
+            "cowboy",
+            "beanie"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2757445",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2757445.jpg",
+        "question": "How fast can one of these travel?",
+        "choices": [
+            "75 mph",
+            "200 mph",
+            "100 mph",
+            "150 mph"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1480675",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1480675.jpg",
+        "question": "What could be used to season this meal?",
+        "choices": [
+            "sugar",
+            "pepper",
+            "salt",
+            "olive oil"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "581745",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/581745.jpg",
+        "question": "How many people can this bus carry?",
+        "choices": [
+            "40",
+            "25",
+            "50",
+            "100"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3825545",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3825545.jpg",
+        "question": "What sport is the motor cycle here used in?",
+        "choices": [
+            "road cycling",
+            "motocross",
+            "motorcross",
+            "dirt biking"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4689545",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4689545.jpg",
+        "question": "What brand makes the gaming system shown?",
+        "choices": [
+            "nintendo",
+            "sony",
+            "atari",
+            "microsoft"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1662595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1662595.jpg",
+        "question": "What food do these animals eat?",
+        "choices": [
+            "snakes",
+            "carrots",
+            "fish",
+            "insects"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2778695",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2778695.jpg",
+        "question": "What country is famous for having these?",
+        "choices": [
+            "germany",
+            "france",
+            "spain",
+            "england"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3763585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3763585.jpg",
+        "question": "What are the white objects on this animals head called?",
+        "choices": [
+            "antlers",
+            "horn",
+            "whiskers",
+            "fins"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1964835",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1964835.jpg",
+        "question": "Where are the strands coming from?",
+        "choices": [
+            "ceiling",
+            "floor",
+            "wall",
+            "window"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3781395",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3781395.jpg",
+        "question": "What additional insurance would likely be necessary if a person lived in one of these structures?",
+        "choices": [
+            "earthquake",
+            "fire",
+            "flood",
+            "theft"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3318835",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3318835.jpg",
+        "question": "What kind of bed is that?",
+        "choices": [
+            "waterbed",
+            "air mattress",
+            "futon",
+            "hammock"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2936255",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2936255.jpg",
+        "question": "What gaming system is being played?",
+        "choices": [
+            "wii",
+            "gamecube",
+            "nintendo switch",
+            "playstation 4"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3982365",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3982365.jpg",
+        "question": "What is a good side dish for this meal?",
+        "choices": [
+            "steam",
+            "fry",
+            "grill",
+            "bake"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "81705",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/81705.jpg",
+        "question": "What kind of stove do they have?",
+        "choices": [
+            "solar",
+            "charcoal",
+            "electric",
+            "induction"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "635655",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/635655.jpg",
+        "question": "What is a state where this scene could take place?",
+        "choices": [
+            "florida",
+            "georgia",
+            "north carolina",
+            "south carolina"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "93785",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/93785.jpg",
+        "question": "What company introduced the toy this man is playing with?",
+        "choices": [
+            "hula hoop",
+            "rubik's cube",
+            "etch-a-sketch",
+            "frisbee"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "848895",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/848895.jpg",
+        "question": "What beverages are pictured in this phot?",
+        "choices": [
+            "coffee",
+            "juice",
+            "water",
+            "smoothie"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "328885",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/328885.jpg",
+        "question": "What brand is the tv in this picture?",
+        "choices": [
+            "philips",
+            "lg",
+            "samsung",
+            "sony"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1892035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1892035.jpg",
+        "question": "What kind of animal does this resemble?",
+        "choices": [
+            "bird",
+            "monkey",
+            "fish",
+            "dog"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5194756",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5194756.jpg",
+        "question": "Would you say this is lunch or dinner?",
+        "choices": [
+            "supper",
+            "brunch",
+            "breakfast",
+            "lunch"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2845355",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2845355.jpg",
+        "question": "What type of bird eats this food?",
+        "choices": [
+            "crow",
+            "hawk",
+            "eagle",
+            "owl"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4742725",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4742725.jpg",
+        "question": "Is this dog jumping because he is excited or angry?",
+        "choices": [
+            "anxious",
+            "scared",
+            "playful",
+            "excited"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "445045",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/445045.jpg",
+        "question": "What do you do with this type of equipment?",
+        "choices": [
+            "wash dishes",
+            "vacuum floor",
+            "comb hair",
+            "brush teeth"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3214765",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3214765.jpg",
+        "question": "Can you guess the material used to prepare this bench?",
+        "choices": [
+            "wood",
+            "metal",
+            "concrete",
+            "glass"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2383855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2383855.jpg",
+        "question": "What is this road comprised of?",
+        "choices": [
+            "bricks",
+            "gravel",
+            "asphalt",
+            "cobble"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4542325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4542325.jpg",
+        "question": "What is the shape this sign is in?",
+        "choices": [
+            "triangle",
+            "rectangle",
+            "octagon",
+            "hexagon"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5077665",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5077665.jpg",
+        "question": "What kind of birds are these?",
+        "choices": [
+            "pigeon",
+            "eagle",
+            "crow",
+            "seagull"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1987175",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1987175.jpg",
+        "question": "The man is indicating what to the obeserver?",
+        "choices": [
+            "applaud",
+            "shout",
+            "run away",
+            "be quiet"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2747085",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2747085.jpg",
+        "question": "What is scary about this photo?",
+        "choices": [
+            "the eerie lighting and shadows",
+            "the unsettling expressions on the subjects' faces",
+            "nothing",
+            "the mysterious figure lurking in the background"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5730725",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5730725.jpg",
+        "question": "Why is the rider leaning?",
+        "choices": [
+            "to avoid an obstacle",
+            "to maintain balance",
+            "to turn",
+            "to look cool"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1277815",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1277815.jpg",
+        "question": "Why is this cat under the umbrella?",
+        "choices": [
+            "hiding",
+            "play",
+            "napping",
+            "hunting"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "293935",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/293935.jpg",
+        "question": "What type of dog is this?",
+        "choices": [
+            "terrier",
+            "retriever",
+            "bulldog",
+            "hound"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "151805",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/151805.jpg",
+        "question": "What is keeping the sun from shining in on the room?",
+        "choices": [
+            "blinds",
+            "curtain",
+            "lamp",
+            "window tint"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1817965",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1817965.jpg",
+        "question": "How do they make the type of drink inside the glass cup?",
+        "choices": [
+            "ferment grape",
+            "steep tea leaves",
+            "squeeze oranges",
+            "brew coffee"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2138305",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2138305.jpg",
+        "question": "How many people can play this game?",
+        "choices": [
+            "6",
+            "2",
+            "4",
+            "1"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1828405",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1828405.jpg",
+        "question": "What type of phone is this woman using?",
+        "choices": [
+            "cordless phone",
+            "cell",
+            "flip phone",
+            "smartphone"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4677915",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4677915.jpg",
+        "question": "Who is playing?",
+        "choices": [
+            "lannan",
+            "mark",
+            "daniel",
+            "jack"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3750215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3750215.jpg",
+        "question": "Who is the richest athlete of this sport?",
+        "choices": [
+            "serena williams",
+            "naomi osaka",
+            "roger federer",
+            "venus williams"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "206085",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/206085.jpg",
+        "question": "How can be wool of sheep be used?",
+        "choices": [
+            "fuel",
+            "insulation",
+            "cloth",
+            "food"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5675525",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5675525.jpg",
+        "question": "Work or play?",
+        "choices": [
+            "work",
+            "play",
+            "rest",
+            "sleep"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4280415",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4280415.jpg",
+        "question": "What style of furniture is featured here?",
+        "choices": [
+            "contemporary",
+            "traditional",
+            "modern",
+            "rustic"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3882585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3882585.jpg",
+        "question": "Which vehicle in this picture travels faster?",
+        "choices": [
+            "airplane",
+            "bicycle",
+            "car",
+            "boat"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1846135",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1846135.jpg",
+        "question": "What level of animal husbandry is practiced in asian countries?",
+        "choices": [
+            "0",
+            "expert",
+            "advanced",
+            "beginner"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2347795",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2347795.jpg",
+        "question": "What is inside that sandwhich?",
+        "choices": [
+            "bread",
+            "cheese",
+            "lettuce",
+            "meat"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "698275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/698275.jpg",
+        "question": "What company does this truck work for?",
+        "choices": [
+            "ups",
+            "fedex",
+            "amazon",
+            "waste management"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3030265",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3030265.jpg",
+        "question": "What is the woman sitting on?",
+        "choices": [
+            "bench",
+            "chair",
+            "stool",
+            "sofa"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1440585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1440585.jpg",
+        "question": "What is in the air?",
+        "choices": [
+            "clouds",
+            "oxygen",
+            "dust",
+            "fog"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5006635",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5006635.jpg",
+        "question": "Are the cows grazing on cool season or warm season grasses?",
+        "choices": [
+            "mixed",
+            "warm",
+            "tropical",
+            "cool"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5645635",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5645635.jpg",
+        "question": "What mountain range is this?",
+        "choices": [
+            "rockies",
+            "alps",
+            "himalayas",
+            "andes"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1086455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1086455.jpg",
+        "question": "Who invented the game system they are playing?",
+        "choices": [
+            "nintendo",
+            "microsoft",
+            "sega",
+            "atari"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3202185",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3202185.jpg",
+        "question": "What is this animal doing with it's head down?",
+        "choices": [
+            "hunting",
+            "graze",
+            "sleeping",
+            "swallowing"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5643525",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5643525.jpg",
+        "question": "Where in the world could you ride on a boat such as this?",
+        "choices": [
+            "miami",
+            "paris",
+            "venice",
+            "tokyo"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2147535",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2147535.jpg",
+        "question": "What do these animals wear on their feet?",
+        "choices": [
+            "horseshoe",
+            "hoof socks",
+            "paw print shoes",
+            "flip-flops"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5020125",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5020125.jpg",
+        "question": "What industry are these for?",
+        "choices": [
+            "healthcare",
+            "internet",
+            "education",
+            "manufacturing"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5649115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5649115.jpg",
+        "question": "What company is this plane flying for?",
+        "choices": [
+            "star alliance",
+            "global flight alliance",
+            "oneworld",
+            "skyteam"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1559125",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1559125.jpg",
+        "question": "What is the kid playing with?",
+        "choices": [
+            "soccer ball",
+            "puzzle",
+            "kite",
+            "teddy bear"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "153455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/153455.jpg",
+        "question": "Name one specific object the children in the photo are most likely looking at?",
+        "choices": [
+            "television",
+            "toys",
+            "phone",
+            "laptop"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "960015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/960015.jpg",
+        "question": "What popular pbs television show might display items like these?",
+        "choices": [
+            "art gallery stroll",
+            "vintage market visit",
+            "antique roadshow",
+            "pop culture exhibit"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "606775",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/606775.jpg",
+        "question": "How much is this truck worth?",
+        "choices": [
+            "$5000",
+            "$10000",
+            "$3000",
+            "$15000"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2104085",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2104085.jpg",
+        "question": "What is this horse pulling behind it?",
+        "choices": [
+            "bicycle",
+            "carriage",
+            "wagon",
+            "sled"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3617515",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3617515.jpg",
+        "question": "Why is this here?",
+        "choices": [
+            "sit",
+            "lie",
+            "stand",
+            "move"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1843885",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1843885.jpg",
+        "question": "Who is famous for allegedly doing this in a lightning storm?",
+        "choices": [
+            "benjamin franklin",
+            "alexander hamilton",
+            "george washington",
+            "thomas jefferson"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2935375",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2935375.jpg",
+        "question": "What emotion is this man expressing?",
+        "choices": [
+            "happiness",
+            "surprise",
+            "boredom",
+            "anger"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3262225",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3262225.jpg",
+        "question": "What is the orange veggie on the plate?",
+        "choices": [
+            "cauliflower",
+            "pumpkin",
+            "potato",
+            "carrot"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3773935",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3773935.jpg",
+        "question": "What is the purpode of the tower to the left?",
+        "choices": [
+            "radio antenna",
+            "clock",
+            "weather monitoring station",
+            "water pump"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4671975",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4671975.jpg",
+        "question": "What kind of bag is the cat sitting down on?",
+        "choices": [
+            "suitcase",
+            "backpack",
+            "briefcase",
+            "purse"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2441975",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2441975.jpg",
+        "question": "Are they djing or are they playing e sports?",
+        "choices": [
+            "competitive chess",
+            "e sport",
+            "djing",
+            "freestyle rap"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "147735",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/147735.jpg",
+        "question": "Why type of restaurant would serve this food?",
+        "choices": [
+            "cafe",
+            "bistro",
+            "bar",
+            "diner"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2241115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2241115.jpg",
+        "question": "What types of clouds are forming in the sky?",
+        "choices": [
+            "cumulus",
+            "cirrus",
+            "nimbus",
+            "stratus"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3703995",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3703995.jpg",
+        "question": "The vegetables shown before you is good for which parts of the body?",
+        "choices": [
+            "kidneys",
+            "heart",
+            "lungs",
+            "liver"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4907205",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4907205.jpg",
+        "question": "What kind of bear is this?",
+        "choices": [
+            "grizzly",
+            "koala",
+            "panda",
+            "polar"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2256035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2256035.jpg",
+        "question": "What spices typically go on this side item?",
+        "choices": [
+            "salt",
+            "garlic",
+            "pepper",
+            "paprika"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "960755",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/960755.jpg",
+        "question": "Where can i store these vehicles?",
+        "choices": [
+            "marina",
+            "movie theater",
+            "gas station",
+            "garage"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4560125",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4560125.jpg",
+        "question": "Would you say this is a happy or sad occasion?",
+        "choices": [
+            "sad",
+            "heartwarming",
+            "joyful",
+            "tragic"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4854245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4854245.jpg",
+        "question": "What kind of oven is on the table?",
+        "choices": [
+            "blender",
+            "coffee maker",
+            "toaster",
+            "microwave"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1802745",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1802745.jpg",
+        "question": "Where would you normally find coolers like this?",
+        "choices": [
+            "gas station",
+            "clothing boutique",
+            "convenience store",
+            "hardware store"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1433465",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1433465.jpg",
+        "question": "What position is the player in who is behind the plate?",
+        "choices": [
+            "outfielder",
+            "catcher",
+            "pitcher",
+            "shortstop"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "237815",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/237815.jpg",
+        "question": "Which vegetable is grown in the ground?",
+        "choices": [
+            "potato",
+            "carrot",
+            "lettuce",
+            "broccoli"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4803455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4803455.jpg",
+        "question": "What is the average life expectancy of the animal shown?",
+        "choices": [
+            "10 years",
+            "15 years",
+            "30 years",
+            "25 years"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4713425",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4713425.jpg",
+        "question": "What kind of noodles are those?",
+        "choices": [
+            "macaroni",
+            "ramen",
+            "spaghetti",
+            "fettuccine"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4572265",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4572265.jpg",
+        "question": "What type of flooring is in the picture?",
+        "choices": [
+            "marble",
+            "laminate",
+            "tile",
+            "wood"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5357705",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5357705.jpg",
+        "question": "What time of day is it?",
+        "choices": [
+            "midnight",
+            "night",
+            "morning",
+            "evening"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5085825",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5085825.jpg",
+        "question": "What shape are these pizzas?",
+        "choices": [
+            "square",
+            "rectangle",
+            "circle",
+            "triangle"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3732555",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3732555.jpg",
+        "question": "Can you guess the place name where these cattle are shown in this picture?",
+        "choices": [
+            "farm",
+            "stable",
+            "ranch",
+            "pasture"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2521015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2521015.jpg",
+        "question": "How many people can fit inside the stadium in the photo?",
+        "choices": [
+            "25000",
+            "20000",
+            "30000",
+            "15000"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1384465",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1384465.jpg",
+        "question": "How does this animal nourish her young?",
+        "choices": [
+            "hunting prey",
+            "laying eggs",
+            "milk",
+            "chewing grass"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "80215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/80215.jpg",
+        "question": "Is this an example of a lecture or a film?",
+        "choices": [
+            "documentary",
+            "film",
+            "tutorial",
+            "lecture"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5763635",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5763635.jpg",
+        "question": "What are these people rolling around?",
+        "choices": [
+            "cart",
+            "shopping cart",
+            "bicycle",
+            "skateboard"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1282805",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1282805.jpg",
+        "question": "What sates are these grown in?",
+        "choices": [
+            "texas arizona",
+            "hawaii alaska",
+            "florida california",
+            "new york oregon"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4561435",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4561435.jpg",
+        "question": "Often used as a side dish?",
+        "choices": [
+            "garlic bread",
+            "steamed vegetables",
+            "french fry",
+            "mashed potato"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4276155",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4276155.jpg",
+        "question": "What is the name of the stuffed animal in this picture?",
+        "choices": [
+            "rag doll",
+            "care bear",
+            "cuddly monkey",
+            "fluffy bunny"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1066175",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1066175.jpg",
+        "question": "Where did they get that pizza?",
+        "choices": [
+            "grocery store",
+            "delivery service",
+            "restaurant",
+            "homemade"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "44955",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/44955.jpg",
+        "question": "What do you call the pattern on the furniture?",
+        "choices": [
+            "gingham",
+            "paisley",
+            "ikat",
+            "plaid"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5173185",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5173185.jpg",
+        "question": "What is the average life span of this animal?",
+        "choices": [
+            "15 years",
+            "10 years",
+            "50 years",
+            "25 years"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4328985",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4328985.jpg",
+        "question": "What is the weather like?",
+        "choices": [
+            "raining",
+            "overcast",
+            "windy",
+            "snowing"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5432245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5432245.jpg",
+        "question": "Is this a snack or meal?",
+        "choices": [
+            "meal",
+            "snack",
+            "appetizer",
+            "dessert"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2621615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2621615.jpg",
+        "question": "What year was this silver motorcycle produced?",
+        "choices": [
+            "1965",
+            "1970",
+            "1980",
+            "1990"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4767705",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4767705.jpg",
+        "question": "What team does this man play for?",
+        "choices": [
+            "wolves",
+            "cub",
+            "lions",
+            "tigers"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5476305",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5476305.jpg",
+        "question": "What are the ingredients of this drink?",
+        "choices": [
+            "coffee",
+            "tea",
+            "orange juice",
+            "milk"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1907005",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1907005.jpg",
+        "question": "What is the brand of bear?",
+        "choices": [
+            "gund",
+            "paddington bear",
+            "winnie the pooh",
+            "build-a-bear"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3157445",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3157445.jpg",
+        "question": "Where does this food grow?",
+        "choices": [
+            "mountain",
+            "ocean",
+            "underground",
+            "tree"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "697955",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/697955.jpg",
+        "question": "Name the type of wood used to make this window shown in this picture?",
+        "choices": [
+            "cedar",
+            "cherry",
+            "pine",
+            "mahogany"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "894595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/894595.jpg",
+        "question": "What did people put on this sign?",
+        "choices": [
+            "graffiti",
+            "poster",
+            "sticker",
+            "marker"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5690585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5690585.jpg",
+        "question": "What energy source does this object run on?",
+        "choices": [
+            "wind energy",
+            "solar power",
+            "gasoline",
+            "battery"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3635815",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3635815.jpg",
+        "question": "What brand of softdrink does this establishment serve?",
+        "choices": [
+            "pepsi",
+            "sprite",
+            "coke",
+            "dr. pepper"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1572615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1572615.jpg",
+        "question": "What is this train hauling?",
+        "choices": [
+            "cargo",
+            "passengers",
+            "livestock",
+            "machinery"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1833875",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1833875.jpg",
+        "question": "What activity is this person participating in?",
+        "choices": [
+            "skydiving",
+            "snorkeling",
+            "parasailing",
+            "horseback riding"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4324215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4324215.jpg",
+        "question": "What country is this activity most popular in?",
+        "choices": [
+            "france",
+            "italy",
+            "germany",
+            "netherlands"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3686025",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3686025.jpg",
+        "question": "Which vehicle is pulling the person for this activity?",
+        "choices": [
+            "boat",
+            "plane",
+            "car",
+            "bicycle"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5384635",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5384635.jpg",
+        "question": "What popular kid's toy train does this image remind you of?",
+        "choices": [
+            "james",
+            "thomas",
+            "gordon",
+            "stanley"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3867075",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3867075.jpg",
+        "question": "Which brand is pictured here?",
+        "choices": [
+            "olympus",
+            "canon",
+            "sony",
+            "nikon"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1838435",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1838435.jpg",
+        "question": "What brand of clothing is the person in the image wearing?",
+        "choices": [
+            "north face",
+            "under armour",
+            "patagonia",
+            "columbia"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4964115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4964115.jpg",
+        "question": "What type of a worship place could that building be?",
+        "choices": [
+            "library",
+            "mosque",
+            "temple",
+            "church"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3986045",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3986045.jpg",
+        "question": "What type of wine could that be?",
+        "choices": [
+            "white",
+            "red",
+            "dry",
+            "sparkling"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5324265",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5324265.jpg",
+        "question": "What breed of dog is this?",
+        "choices": [
+            "beagle",
+            "golden retriever",
+            "sheepdog",
+            "poodle"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2120585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2120585.jpg",
+        "question": "What is the brand of the hair dryer?",
+        "choices": [
+            "revlon",
+            "dyson",
+            "conair",
+            "remington"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "570725",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/570725.jpg",
+        "question": "What is the type of knife that was used to cut this bread?",
+        "choices": [
+            "chef's",
+            "butter",
+            "paring",
+            "serrated"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5474935",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5474935.jpg",
+        "question": "What type of dinnerware is the food on?",
+        "choices": [
+            "cup",
+            "spoon",
+            "plate",
+            "saucer"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3604805",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3604805.jpg",
+        "question": "This tennis player comes to the clinic for elbow pain what anatomic structure has she likely injured?",
+        "choices": [
+            "wrist",
+            "elbow",
+            "shoulder",
+            "knee"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "403175",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/403175.jpg",
+        "question": "What sporting equipment are they using?",
+        "choices": [
+            "ski",
+            "football",
+            "basketball",
+            "tennis racket"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1898115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1898115.jpg",
+        "question": "What kind of plant is on this dish?",
+        "choices": [
+            "spinach",
+            "kale",
+            "cilantro",
+            "broccoli"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4038175",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4038175.jpg",
+        "question": "What makes this animal raise its head?",
+        "choices": [
+            "curiosity",
+            "hunger",
+            "pain",
+            "noise"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2218935",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2218935.jpg",
+        "question": "What drink is this?",
+        "choices": [
+            "beer",
+            "tea",
+            "wine",
+            "soda"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2548385",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2548385.jpg",
+        "question": "What kind of sandwich is this cat eating?",
+        "choices": [
+            "grilled cheese",
+            "ham",
+            "peanut butter and jelly",
+            "tuna"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1180515",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1180515.jpg",
+        "question": "What kind of place is this?",
+        "choices": [
+            "park",
+            "office",
+            "school",
+            "restaurant"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5727345",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5727345.jpg",
+        "question": "Does this look like the owner of the suitcase is packing or unpacking?",
+        "choices": [
+            "organize",
+            "pack",
+            "rearrange",
+            "sort"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1708525",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1708525.jpg",
+        "question": "What toe related phrase is most commonly associated with this sport?",
+        "choices": [
+            "dunk 10",
+            "hang 10",
+            "catch 10",
+            "jump 10"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4676755",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4676755.jpg",
+        "question": "When a cat makes a face like the one in this image what grooming activity are they not looking forward to?",
+        "choices": [
+            "bath",
+            "ear cleaning",
+            "nail trimming",
+            "flea treatment"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3980455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3980455.jpg",
+        "question": "What style hat is the man on the right wearing?",
+        "choices": [
+            "fedora",
+            "top hat",
+            "bowler",
+            "trilby"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5710595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5710595.jpg",
+        "question": "What kind of animals could make these guys fearful?",
+        "choices": [
+            "shark",
+            "turtle",
+            "lion",
+            "dolphin"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5601785",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5601785.jpg",
+        "question": "What family does this vegetable belong to?",
+        "choices": [
+            "celery",
+            "potato",
+            "broccoli",
+            "carrot"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4769255",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4769255.jpg",
+        "question": "What is the name of the type of furniture the man is sitting on?",
+        "choices": [
+            "table",
+            "sofa",
+            "bed",
+            "chair"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "343215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/343215.jpg",
+        "question": "What kind of bear?",
+        "choices": [
+            "teddy",
+            "polar",
+            "grizzly",
+            "koala"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3964965",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3964965.jpg",
+        "question": "What cities still have cable cars?",
+        "choices": [
+            "san francisco",
+            "chicago",
+            "seattle",
+            "new york city"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1630575",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1630575.jpg",
+        "question": "Why is this crowd assembled?",
+        "choices": [
+            "to fly kite",
+            "to celebrate a holiday",
+            "to protest for better wages",
+            "to watch a football game"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5536695",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5536695.jpg",
+        "question": "Name the park where the person is sitting?",
+        "choices": [
+            "downtown",
+            "central",
+            "eastern",
+            "northern"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "96995",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/96995.jpg",
+        "question": "What will these do?",
+        "choices": [
+            "crawl",
+            "jump",
+            "swim",
+            "fly"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4499505",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4499505.jpg",
+        "question": "What is the bathroom counter made of?",
+        "choices": [
+            "marble",
+            "porcelain",
+            "granite",
+            "quartz"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4079035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4079035.jpg",
+        "question": "In what position in surfing is the woman on the picture in?",
+        "choices": [
+            "lying down",
+            "crouching",
+            "kneel",
+            "sitting"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "455355",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/455355.jpg",
+        "question": "What alphabet letter is commonly associated with this?",
+        "choices": [
+            "z",
+            "y",
+            "b",
+            "w"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3248455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3248455.jpg",
+        "question": "What type of dressing is on this sandwich?",
+        "choices": [
+            "honey mustard",
+            "caesar",
+            "thousand island",
+            "ranch"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5341945",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5341945.jpg",
+        "question": "What weather phenomenon most likely happened?",
+        "choices": [
+            "heat wave",
+            "flood",
+            "blizzard",
+            "hurricane"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1323165",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1323165.jpg",
+        "question": "Who invented the sleeve around this cup?",
+        "choices": [
+            "dunkin' donuts",
+            "starbucks",
+            "costa coffee",
+            "tim hortons"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "606105",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/606105.jpg",
+        "question": "What are these type of vehicles used for?",
+        "choices": [
+            "public transportation",
+            "personal commuting",
+            "cargo transportation",
+            "military operations"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5737595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5737595.jpg",
+        "question": "What type of boat is in this image?",
+        "choices": [
+            "kayak",
+            "fish",
+            "speedboat",
+            "sailboat"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1542635",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1542635.jpg",
+        "question": "What type of sandwich is this man eating?",
+        "choices": [
+            "blt",
+            "sub",
+            "ham and cheese",
+            "meatball"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1035095",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1035095.jpg",
+        "question": "What kind of plant is seen in this picture?",
+        "choices": [
+            "vine plant",
+            "house plant",
+            "succulent plant",
+            "tropical tree"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4790085",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4790085.jpg",
+        "question": "Are they sitting on a plane or a bus?",
+        "choices": [
+            "plane",
+            "car",
+            "train",
+            "bus"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4846275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4846275.jpg",
+        "question": "What are the beds in this photo used for?",
+        "choices": [
+            "dormitory",
+            "hotel",
+            "hospital",
+            "nursing home"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4994285",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4994285.jpg",
+        "question": "What is the proper name for this type of bus?",
+        "choices": [
+            "double decker",
+            "triple decker",
+            "mega decker",
+            "super decker"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4267145",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4267145.jpg",
+        "question": "What type of cat is this?",
+        "choices": [
+            "persian",
+            "calico",
+            "tabby",
+            "maine coon"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "765295",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/765295.jpg",
+        "question": "What nutrient is associated with the fruit seen here?",
+        "choices": [
+            "iron",
+            "potassium",
+            "vitamin c",
+            "sodium"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4825855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4825855.jpg",
+        "question": "What are these trains used for?",
+        "choices": [
+            "deliver mail",
+            "transport goods",
+            "carry passenger",
+            "carry packages"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3295625",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3295625.jpg",
+        "question": "What is this plane doing?",
+        "choices": [
+            "landing",
+            "taxi",
+            "taking off",
+            "soaring"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1870455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1870455.jpg",
+        "question": "What kind of phones are being used?",
+        "choices": [
+            "landline",
+            "cordless",
+            "smartphone",
+            "cell"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4829105",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4829105.jpg",
+        "question": "I wonder what is the skill level of this game?",
+        "choices": [
+            "low",
+            "high",
+            "medium",
+            "advanced"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5752875",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5752875.jpg",
+        "question": "Name the material used to make this umbrella shown in this picture?",
+        "choices": [
+            "cotton",
+            "nylon",
+            "plastic",
+            "silk"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3992965",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3992965.jpg",
+        "question": "What is this cooking technique called?",
+        "choices": [
+            "broil",
+            "grill",
+            "steam",
+            "bake"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1069125",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1069125.jpg",
+        "question": "Can you name the place where the boy is playing?",
+        "choices": [
+            "driveway",
+            "backyard",
+            "kitchen",
+            "playground"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4621485",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4621485.jpg",
+        "question": "What brand of cell phone is this?",
+        "choices": [
+            "nokia",
+            "apple",
+            "samsung",
+            "motorola"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1692505",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1692505.jpg",
+        "question": "What material is the couch made of?",
+        "choices": [
+            "metal",
+            "leather",
+            "fabric",
+            "wood"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2170055",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2170055.jpg",
+        "question": "What kind of plant is this?",
+        "choices": [
+            "shrub",
+            "ivy",
+            "weed",
+            "flower"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3586245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3586245.jpg",
+        "question": "What is the property that allows images to be seen on an object's surface like the ornament's?",
+        "choices": [
+            "transmission",
+            "reflection",
+            "refraction",
+            "diffraction"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "436105",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/436105.jpg",
+        "question": "How many eggs does this animal usually lay at one time?",
+        "choices": [
+            "8",
+            "2",
+            "4",
+            "6"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2604785",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2604785.jpg",
+        "question": "What piece of clothing is the person with hat wearing which is buttoned up over their shirt?",
+        "choices": [
+            "jacket",
+            "vest",
+            "overalls",
+            "scarf"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3341255",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3341255.jpg",
+        "question": "Who is the designer of the orange backpack?",
+        "choices": [
+            "nike",
+            "jansport",
+            "adidas",
+            "patagonia"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1173375",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1173375.jpg",
+        "question": "What is the common color theme?",
+        "choices": [
+            "purple",
+            "blue",
+            "orange",
+            "yellow"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3581495",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3581495.jpg",
+        "question": "What sport is this?",
+        "choices": [
+            "kite fly",
+            "snorkeling",
+            "skydiving",
+            "bungee jumping"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3466215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3466215.jpg",
+        "question": "What style of car is in the red one?",
+        "choices": [
+            "convertible",
+            "suv",
+            "coupe",
+            "sedan"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5742275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5742275.jpg",
+        "question": "What is this building use for?",
+        "choices": [
+            "education",
+            "administration",
+            "entertainment",
+            "worship"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2554835",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2554835.jpg",
+        "question": "The sharp objects are doing what?",
+        "choices": [
+            "folding",
+            "cut",
+            "sewing",
+            "slicing"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2058545",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2058545.jpg",
+        "question": "What breed of dog is shown here?",
+        "choices": [
+            "mutt",
+            "labrador retriever",
+            "poodle",
+            "beagle"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3092225",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3092225.jpg",
+        "question": "What part of the body is this item used on?",
+        "choices": [
+            "head",
+            "neck",
+            "nose",
+            "hand"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5058915",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5058915.jpg",
+        "question": "What kind of cat is this?",
+        "choices": [
+            "tabby",
+            "persian",
+            "maine coon",
+            "abyssinian"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4407095",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4407095.jpg",
+        "question": "What kind of retail environment would one typically find this in?",
+        "choices": [
+            "electronics store",
+            "convenience store",
+            "grocery store",
+            "clothing boutique"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "78675",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/78675.jpg",
+        "question": "What ingredients are used in this food?",
+        "choices": [
+            "bread",
+            "cheese",
+            "butter",
+            "tomatoes"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2941315",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2941315.jpg",
+        "question": "Is this bathroom at a house or hotel?",
+        "choices": [
+            "hotel",
+            "house",
+            "airbnb",
+            "hostel"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5196735",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5196735.jpg",
+        "question": "Name the model of engine used by these train shown in this picture?",
+        "choices": [
+            "coal engine",
+            "solar engine",
+            "steam engine",
+            "diesel engine"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3678605",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3678605.jpg",
+        "question": "What kind of animal is the person in the photo looking at through the window?",
+        "choices": [
+            "elephant",
+            "ostrich",
+            "lion",
+            "giraffe"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4326475",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4326475.jpg",
+        "question": "Which us city is shown?",
+        "choices": [
+            "hartford",
+            "henderson",
+            "hawthorne",
+            "houston"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3650355",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3650355.jpg",
+        "question": "Apart from pictures what moving images can this device capture?",
+        "choices": [
+            "gifs",
+            "audio",
+            "text",
+            "video"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3972915",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3972915.jpg",
+        "question": "What kind of bear is shown in the photo?",
+        "choices": [
+            "polar",
+            "teddy",
+            "grizzly",
+            "panda"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3453535",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3453535.jpg",
+        "question": "What country serves this most?",
+        "choices": [
+            "germany",
+            "united kingdom",
+            "australia",
+            "united state"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "207745",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/207745.jpg",
+        "question": "Why don't the other people have an umbrella?",
+        "choices": [
+            "lost their umbrellas",
+            "forgot it at home",
+            "didn't check the weather forecast",
+            "not rain hard"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4183005",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4183005.jpg",
+        "question": "What is the item behind the man's head for?",
+        "choices": [
+            "heat generation",
+            "decoration",
+            "sound amplification",
+            "light"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2224585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2224585.jpg",
+        "question": "What style of architecture is this building?",
+        "choices": [
+            "renaissance",
+            "modern",
+            "gothic",
+            "victorian"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1647795",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1647795.jpg",
+        "question": "What time of day is it?",
+        "choices": [
+            "odd",
+            "midnight",
+            "even",
+            "noon"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4103755",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4103755.jpg",
+        "question": "What brandname are the lip balms?",
+        "choices": [
+            "aquaphor",
+            "burt's bees",
+            "chapstick",
+            "maybelline"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3837625",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3837625.jpg",
+        "question": "How tall is the tree that these fruit grow on?",
+        "choices": [
+            "12 feet",
+            "20 feet",
+            "8 feet",
+            "15 feet"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1090555",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1090555.jpg",
+        "question": "How many lives does this thing have?",
+        "choices": [
+            "12",
+            "9",
+            "3",
+            "7"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3881615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3881615.jpg",
+        "question": "What type of horse is in the picture?",
+        "choices": [
+            "mustang",
+            "clydesdale",
+            "thoroughbred",
+            "shire"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1763285",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1763285.jpg",
+        "question": "What items are filling the shelves in the far left of this photo?",
+        "choices": [
+            "mug",
+            "pen",
+            "book",
+            "laptop"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1169515",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1169515.jpg",
+        "question": "What decade was this train engine manufactured?",
+        "choices": [
+            "1800",
+            "1700",
+            "1900",
+            "2000"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "350745",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/350745.jpg",
+        "question": "What food do these animals eat?",
+        "choices": [
+            "carrots",
+            "cheese",
+            "mice",
+            "elephants"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2987325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2987325.jpg",
+        "question": "What kind of cleaner would you use to keep the glass spot free?",
+        "choices": [
+            "dish soap",
+            "vinegar and water",
+            "laundry detergent",
+            "windex"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2820375",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2820375.jpg",
+        "question": "How do you score in this game?",
+        "choices": [
+            "homerun",
+            "hat-trick",
+            "goal",
+            "touchdown"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "330065",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/330065.jpg",
+        "question": "What ethnicity are the people?",
+        "choices": [
+            "white",
+            "asian",
+            "hispanic",
+            "middle eastern"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3168795",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3168795.jpg",
+        "question": "Who invented the yellow and black item?",
+        "choices": [
+            "thomas edison",
+            "isaac newton",
+            "samuel fox",
+            "richard branson"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3270385",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3270385.jpg",
+        "question": "What are the ingredients used to prepare the dish the man is having in his hand?",
+        "choices": [
+            "tomato",
+            "potato",
+            "carrot",
+            "onion"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2983965",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2983965.jpg",
+        "question": "What activity can be done using the appliance on the wall?",
+        "choices": [
+            "mop",
+            "bake",
+            "vacuum",
+            "paint"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4636055",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4636055.jpg",
+        "question": "Name the painting material used to paint this vechicle in this picture?",
+        "choices": [
+            "spray",
+            "crayon",
+            "paintbrush",
+            "marker"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3363845",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3363845.jpg",
+        "question": "What is this plane about to do?",
+        "choices": [
+            "land",
+            "hover",
+            "crash",
+            "take off"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1536325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1536325.jpg",
+        "question": "What kind of oil is on the dish?",
+        "choices": [
+            "vegetable oil",
+            "olive oil",
+            "motor oil",
+            "peanut oil"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "101385",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/101385.jpg",
+        "question": "How did the man extinguish one of the candles?",
+        "choices": [
+            "snuff",
+            "eat",
+            "blow",
+            "pour water"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4468125",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4468125.jpg",
+        "question": "How many minutes per pound does the bird in the woman's hands have to be cooked?",
+        "choices": [
+            "45",
+            "15",
+            "30",
+            "20"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1891525",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1891525.jpg",
+        "question": "What military branch is she in?",
+        "choices": [
+            "marines",
+            "air force",
+            "army",
+            "navy"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3107355",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3107355.jpg",
+        "question": "What is the object called in the mans hand?",
+        "choices": [
+            "racket",
+            "paddle",
+            "bat",
+            "hammer"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "705895",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/705895.jpg",
+        "question": "The hide of what serpent like creature is sometimes used to make the tan item used here?",
+        "choices": [
+            "earthworm",
+            "lizard",
+            "snake",
+            "eel"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5200775",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5200775.jpg",
+        "question": "Where did this person get these books from?",
+        "choices": [
+            "bookstore",
+            "supermarket",
+            "library",
+            "thrift shop"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5149905",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5149905.jpg",
+        "question": "What is that blue table made out of?",
+        "choices": [
+            "marble",
+            "plastic",
+            "wood",
+            "glass"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5747855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5747855.jpg",
+        "question": "What kind of plane is this?",
+        "choices": [
+            "prop",
+            "glider",
+            "seaplane",
+            "helicopter"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1573215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1573215.jpg",
+        "question": "What is the weather like?",
+        "choices": [
+            "sunny",
+            "foggy",
+            "snowy",
+            "windy"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4654635",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4654635.jpg",
+        "question": "What is an oven like this used for?",
+        "choices": [
+            "broil",
+            "bake",
+            "deep-fry",
+            "roast"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2789665",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2789665.jpg",
+        "question": "What type of cleaner is being used?",
+        "choices": [
+            "dish soap",
+            "ammonia",
+            "bleach",
+            "baking soda"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3968215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3968215.jpg",
+        "question": "In what states might this person be doing this activity?",
+        "choices": [
+            "alaska washington",
+            "california hawaii",
+            "new york nevada",
+            "texas florida"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1400685",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1400685.jpg",
+        "question": "What team is number 51 from?",
+        "choices": [
+            "titan",
+            "giant",
+            "small",
+            "dwarf"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1648855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1648855.jpg",
+        "question": "What is this ski moved called?",
+        "choices": [
+            "twist",
+            "spin",
+            "jump",
+            "flip"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3573545",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3573545.jpg",
+        "question": "What in this picture is most out of place?",
+        "choices": [
+            "lion",
+            "giraffe",
+            "zebra",
+            "elephant"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4083645",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4083645.jpg",
+        "question": "What state is this child most likely in?",
+        "choices": [
+            "massachusetts",
+            "maine",
+            "new hampshire",
+            "texas"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3478195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3478195.jpg",
+        "question": "Is this a meal or snack?",
+        "choices": [
+            "breakfast",
+            "dinner",
+            "dessert",
+            "snack"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5249625",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5249625.jpg",
+        "question": "What kind of transportation is this man using?",
+        "choices": [
+            "bicycle",
+            "jet ski",
+            "skateboard",
+            "surfboard"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5817025",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5817025.jpg",
+        "question": "What type of bird is this?",
+        "choices": [
+            "robin",
+            "blue jay",
+            "cardinal",
+            "sparrow"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2454325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2454325.jpg",
+        "question": "How fast do these vehicles tyipcally go?",
+        "choices": [
+            "55mph",
+            "60mph",
+            "70mph",
+            "50mph"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "695535",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/695535.jpg",
+        "question": "Where can you travel like this?",
+        "choices": [
+            "south america",
+            "europe",
+            "asia",
+            "africa"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3798005",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3798005.jpg",
+        "question": "How would this train stop itself on the tracks?",
+        "choices": [
+            "steering wheel",
+            "reverse gear",
+            "brake",
+            "accelerator"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "218645",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/218645.jpg",
+        "question": "What type of clouds are in the sky?",
+        "choices": [
+            "stratus",
+            "cirrus",
+            "nimbus",
+            "cumulus"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1063305",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1063305.jpg",
+        "question": "Where can i buy a bear similar to this one?",
+        "choices": [
+            "online marketplace",
+            "toy store",
+            "pet store"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3665085",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3665085.jpg",
+        "question": "What species of bear is this?",
+        "choices": [
+            "panda bear",
+            "black bear",
+            "grizzly bear",
+            "brown bear"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "485555",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/485555.jpg",
+        "question": "What type of horses are being ridin?",
+        "choices": [
+            "draft horse",
+            "race horse",
+            "wild horse",
+            "show horse"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "861685",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/861685.jpg",
+        "question": "Where would you expect this animal to defecate?",
+        "choices": [
+            "litter box",
+            "backyard",
+            "kitchen sink",
+            "bathtub"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5700395",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5700395.jpg",
+        "question": "This activity helps to ensure that what remains fresh?",
+        "choices": [
+            "wash hands",
+            "brush teeth",
+            "clean the house",
+            "do laundry"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1470425",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1470425.jpg",
+        "question": "What item shown might be used for pest control?",
+        "choices": [
+            "feather duster",
+            "garden hose",
+            "fishing rod",
+            "fly swatter"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "704785",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/704785.jpg",
+        "question": "What activities can be done with items on the shelves?",
+        "choices": [
+            "watch tv",
+            "clean",
+            "read",
+            "eat"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1375015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1375015.jpg",
+        "question": "What sport are these racers doing?",
+        "choices": [
+            "luge",
+            "snowboarding",
+            "ski",
+            "ice hockey"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1796995",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1796995.jpg",
+        "question": "The lack of follicles on this man's head is called being what?",
+        "choices": [
+            "bald",
+            "hairless",
+            "shaven",
+            "follicularly challenged"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5193595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5193595.jpg",
+        "question": "What is the blender for?",
+        "choices": [
+            "crushing ice",
+            "blending soups",
+            "smoothie",
+            "chopping vegetables"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "982615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/982615.jpg",
+        "question": "Name the bird family to which it belongs to shown in this picture?",
+        "choices": [
+            "pigeon",
+            "hummingbird",
+            "sparrow",
+            "robin"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4307885",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4307885.jpg",
+        "question": "Is the horse providing a practical service or a commercial service?",
+        "choices": [
+            "practical",
+            "agricultural",
+            "transportation",
+            "commercial"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "386855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/386855.jpg",
+        "question": "Where can you find these signs?",
+        "choices": [
+            "south korea",
+            "india",
+            "australia",
+            "japan"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4390075",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4390075.jpg",
+        "question": "What phenomena has endangered the habitat of this animal?",
+        "choices": [
+            "deforestation",
+            "climate change",
+            "overhunting",
+            "pollution"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3814165",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3814165.jpg",
+        "question": "What type of skiing is this man doing?",
+        "choices": [
+            "freestyle",
+            "slalom",
+            "cross country",
+            "downhill"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "190365",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/190365.jpg",
+        "question": "Which class are these students most likely attending?",
+        "choices": [
+            "culinary",
+            "art",
+            "mathematics",
+            "biology"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1425645",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1425645.jpg",
+        "question": "How often should children do what is shown in this photo?",
+        "choices": [
+            "daily",
+            "monthly",
+            "yearly",
+            "weekly"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3412965",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3412965.jpg",
+        "question": "What is this machine used for?",
+        "choices": [
+            "calculate temperature",
+            "tell time",
+            "track distance",
+            "play music"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1328605",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1328605.jpg",
+        "question": "Which of the sexes is more likely to carry these items?",
+        "choices": [
+            "infants",
+            "women",
+            "children",
+            "men"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "623985",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/623985.jpg",
+        "question": "How old should this animal be before they are taken from their mother?",
+        "choices": [
+            "12 weeks",
+            "4 weeks",
+            "10 weeks",
+            "6 weeks"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1791915",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1791915.jpg",
+        "question": "Which type of material is used for making the group of tie shown in this photo?",
+        "choices": [
+            "polyester",
+            "silk",
+            "wool",
+            "nylon"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3295685",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3295685.jpg",
+        "question": "Where is this?",
+        "choices": [
+            "car dealership",
+            "flea market",
+            "supermarket",
+            "amusement park"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "907245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/907245.jpg",
+        "question": "What place of business is this?",
+        "choices": [
+            "coffee shop",
+            "clothing store",
+            "grocery store",
+            "hardware store"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1571925",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1571925.jpg",
+        "question": "What's the standard ripe color for objects in the picture?",
+        "choices": [
+            "yellow",
+            "red",
+            "orange",
+            "green"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "648225",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/648225.jpg",
+        "question": "What is this on top of?",
+        "choices": [
+            "park",
+            "bakery",
+            "library",
+            "coffee shop"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1606615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1606615.jpg",
+        "question": "What type of numerals are on the clock?",
+        "choices": [
+            "chinese",
+            "mayan",
+            "roman",
+            "binary"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3901345",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3901345.jpg",
+        "question": "What type of nutrition value does this pastry have?",
+        "choices": [
+            "none of the above.",
+            "low in sugar",
+            "0",
+            "rich in vitamins and minerals"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "265075",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/265075.jpg",
+        "question": "What is the waist size of the man in the black shorts?",
+        "choices": [
+            "34",
+            "30",
+            "36",
+            "38"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2627035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2627035.jpg",
+        "question": "What happened to this person?",
+        "choices": [
+            "tripped",
+            "stumbled",
+            "fell",
+            "slipped"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5615235",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5615235.jpg",
+        "question": "What drink is in the glass?",
+        "choices": [
+            "sparkling water",
+            "champagne",
+            "orange juice",
+            "soda"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "352695",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/352695.jpg",
+        "question": "What is the silverware made from?",
+        "choices": [
+            "aluminum",
+            "bronze",
+            "stainless steel",
+            "pewter"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3351485",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3351485.jpg",
+        "question": "What kind of fruit is that?",
+        "choices": [
+            "watermelon",
+            "grapefruit",
+            "orange",
+            "apple"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5098195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5098195.jpg",
+        "question": "What type of project do these items need to be used?",
+        "choices": [
+            "bake",
+            "sew",
+            "paint",
+            "build"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4794775",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4794775.jpg",
+        "question": "Was the ball thrown overhand or underhand?",
+        "choices": [
+            "backhand",
+            "sideways",
+            "sidearm",
+            "underhand"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2088675",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2088675.jpg",
+        "question": "What's needed to make this object move?",
+        "choices": [
+            "gravity",
+            "electricity",
+            "wind",
+            "magnetism"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2956935",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2956935.jpg",
+        "question": "What urban legend is mostly associated to the cat found in this picture?",
+        "choices": [
+            "curse of the cat",
+            "black cat superstition",
+            "feline misfortune",
+            "bad luck"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1362275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1362275.jpg",
+        "question": "What type of plant is on the pizza?",
+        "choices": [
+            "kale",
+            "lettuce",
+            "spinach",
+            "broccoli"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3433155",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3433155.jpg",
+        "question": "How is this type of fire hydrant opened?",
+        "choices": [
+            "wrench",
+            "hammer",
+            "pliers",
+            "screwdriver"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2891525",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2891525.jpg",
+        "question": "Who named this stuffed toy?",
+        "choices": [
+            "thomas jefferson",
+            "theodore roosevelt",
+            "george washington",
+            "abraham lincoln"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4854475",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4854475.jpg",
+        "question": "How was this photograpic effect created?",
+        "choices": [
+            "filter effects",
+            "zoom lens",
+            "fisheye lens",
+            "macro lens"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5364005",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5364005.jpg",
+        "question": "What kind of dog is in this picture?",
+        "choices": [
+            "beagle",
+            "poodle",
+            "chihuahua",
+            "rottweiler"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5122765",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5122765.jpg",
+        "question": "Where is the type of bird shown in this photo typically found?",
+        "choices": [
+            "florida",
+            "hawaii",
+            "new york",
+            "texas"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3321595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3321595.jpg",
+        "question": "What kind of omen is the cat on the right considered?",
+        "choices": [
+            "neutral",
+            "bad",
+            "lucky",
+            "fortunate"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "999615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/999615.jpg",
+        "question": "Where does this usually belong?",
+        "choices": [
+            "earth",
+            "fire",
+            "sand",
+            "water"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "802195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/802195.jpg",
+        "question": "What is the purpose of the red rag?",
+        "choices": [
+            "decorate",
+            "wrap gifts",
+            "signal danger",
+            "clean"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3294945",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3294945.jpg",
+        "question": "How tall are these animals?",
+        "choices": [
+            "25 feet",
+            "15 feet",
+            "10 feet",
+            "20 feet"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2240205",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2240205.jpg",
+        "question": "What tire shaped food is in the image?",
+        "choices": [
+            "bagel",
+            "bread",
+            "donut",
+            "hamburger"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2559745",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2559745.jpg",
+        "question": "What is the name of this small bird?",
+        "choices": [
+            "hum",
+            "buzz",
+            "squawk",
+            "chirp"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3675285",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3675285.jpg",
+        "question": "What is the mug made of in the photo?",
+        "choices": [
+            "glass",
+            "ceramic",
+            "plastic",
+            "stainless steel"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5429385",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5429385.jpg",
+        "question": "Is this surfer a beginner intermediate or advanced?",
+        "choices": [
+            "beginner",
+            "expert",
+            "professional",
+            "advanced"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4589035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4589035.jpg",
+        "question": "What is the man doing with his phone?",
+        "choices": [
+            "take photo",
+            "making a phone call",
+            "playing games",
+            "sending a text message"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1240135",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1240135.jpg",
+        "question": "What is the average life span of these animals?",
+        "choices": [
+            "50 years",
+            "30 years",
+            "15 years",
+            "10 years"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5787035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5787035.jpg",
+        "question": "What do these birds eat?",
+        "choices": [
+            "seed",
+            "insects",
+            "fish",
+            "flowers"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1109615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1109615.jpg",
+        "question": "What is needed to drive this vehicle?",
+        "choices": [
+            "gas",
+            "electricity",
+            "diesel",
+            "air"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3579435",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3579435.jpg",
+        "question": "What is the dog doing?",
+        "choices": [
+            "playing",
+            "swimming",
+            "herd",
+            "chasing"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1998495",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1998495.jpg",
+        "question": "What farm animal are these zebras related to?",
+        "choices": [
+            "cow",
+            "horse",
+            "pig",
+            "goat"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2335535",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2335535.jpg",
+        "question": "How tall do these animals get?",
+        "choices": [
+            "20 feet",
+            "15 feet",
+            "30 feet",
+            "10 feet"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "570865",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/570865.jpg",
+        "question": "What year was this sport invented?",
+        "choices": [
+            "1865",
+            "1920",
+            "1900",
+            "1880"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3045575",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3045575.jpg",
+        "question": "Why might someone go to this place?",
+        "choices": [
+            "shop",
+            "sleep",
+            "work",
+            "study"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3718795",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3718795.jpg",
+        "question": "What language is spoken here?",
+        "choices": [
+            "russian",
+            "french",
+            "japanese",
+            "korean"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "113645",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/113645.jpg",
+        "question": "What california national park are these known to be seen?",
+        "choices": [
+            "sequoia",
+            "death valley",
+            "yosemite",
+            "redwood"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4893465",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4893465.jpg",
+        "question": "What style of fence is this?",
+        "choices": [
+            "chain-link",
+            "picket",
+            "split rail",
+            "privacy"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5249775",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5249775.jpg",
+        "question": "What electronic appliance is this called?",
+        "choices": [
+            "refrigerator",
+            "blender",
+            "stove",
+            "microwave"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3892955",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3892955.jpg",
+        "question": "When was this sport invented?",
+        "choices": [
+            "1865",
+            "1821",
+            "1847",
+            "1839"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2539305",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2539305.jpg",
+        "question": "What is the cost of this side?",
+        "choices": [
+            "free",
+            "$4.99",
+            "$1.99",
+            "$9.99"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3200205",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3200205.jpg",
+        "question": "What type of dog is this?",
+        "choices": [
+            "golden retriever",
+            "labrador retriever",
+            "german shepherd",
+            "mutt"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2261545",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2261545.jpg",
+        "question": "What is the title of the man behind the wheel?",
+        "choices": [
+            "truck driver",
+            "bus conductor",
+            "train conductor",
+            "bus driver"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "283435",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/283435.jpg",
+        "question": "How is this made?",
+        "choices": [
+            "boiled",
+            "baked",
+            "saut\u00e9ed",
+            "fried"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1099005",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1099005.jpg",
+        "question": "Is this the desert or beach?",
+        "choices": [
+            "mountain",
+            "beach",
+            "forest",
+            "desert"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "773455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/773455.jpg",
+        "question": "Which kind of tree is shown in this picture?",
+        "choices": [
+            "elm",
+            "maple",
+            "birch",
+            "oak"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3117895",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3117895.jpg",
+        "question": "Where did this animal originate from?",
+        "choices": [
+            "egypt",
+            "australia",
+            "india",
+            "china"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5388445",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5388445.jpg",
+        "question": "What type of oil could have been used to cook this meal?",
+        "choices": [
+            "canola",
+            "vegetable",
+            "coconut",
+            "olive"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4844155",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4844155.jpg",
+        "question": "How much water does the bowl of this toilet hold?",
+        "choices": [
+            "5 cups",
+            "1 gallon",
+            "500 milliliters",
+            "2 liters"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3839215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3839215.jpg",
+        "question": "What word that starts with p might these elephants also be called?",
+        "choices": [
+            "pomposity",
+            "perissodactyl",
+            "pachyderm",
+            "proboscis"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5695655",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5695655.jpg",
+        "question": "What type of fuel does this vehicle use?",
+        "choices": [
+            "gasoline",
+            "hybrid",
+            "diesel",
+            "electric"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5345165",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5345165.jpg",
+        "question": "What does the star symbol on this uniform represent?",
+        "choices": [
+            "law enforcement officer",
+            "police officer",
+            "marshal",
+            "sheriff"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2336605",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2336605.jpg",
+        "question": "Which type of metal is used to make this cycle where the dogs are sitting in this picture?",
+        "choices": [
+            "titanium",
+            "steel",
+            "aluminum",
+            "iron"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3313115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3313115.jpg",
+        "question": "What material is burning?",
+        "choices": [
+            "steel",
+            "wood",
+            "plastic",
+            "wax"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2452015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2452015.jpg",
+        "question": "What dog breed is pictured here?",
+        "choices": [
+            "labrador retriever",
+            "dalmatian",
+            "golden retriever",
+            "border collie"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1457475",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1457475.jpg",
+        "question": "What keeps these boats from sinking?",
+        "choices": [
+            "displacement",
+            "density",
+            "buoyancy",
+            "viscosity"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1392485",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1392485.jpg",
+        "question": "What kind of activity is this person engaged in?",
+        "choices": [
+            "eating lunch",
+            "texting on phone",
+            "talk on phone",
+            "reading a book"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4729245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4729245.jpg",
+        "question": "What food does the animal eat?",
+        "choices": [
+            "horse food",
+            "cat food",
+            "dog food",
+            "bird food"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1455975",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1455975.jpg",
+        "question": "What type of meal are these people enjoying?",
+        "choices": [
+            "barbecue",
+            "picnic",
+            "candlelit dinner",
+            "potluck"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3644135",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3644135.jpg",
+        "question": "What is the main purpose of the item hanging on the wall?",
+        "choices": [
+            "communication",
+            "decoration",
+            "illumination",
+            "ventilation"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "419245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/419245.jpg",
+        "question": "What type of vessel would remain in this environment?",
+        "choices": [
+            "truck",
+            "airplane",
+            "boat",
+            "car"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2939645",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2939645.jpg",
+        "question": "What colors are shown in this photo?",
+        "choices": [
+            "black and white",
+            "green and yellow",
+            "purple and orange",
+            "red and blue"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4341295",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4341295.jpg",
+        "question": "What leaf is in this logo?",
+        "choices": [
+            "birch",
+            "oak",
+            "palm",
+            "maple"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1229825",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1229825.jpg",
+        "question": "What does a messy desk like this say about a person?",
+        "choices": [
+            "creative",
+            "disorganized",
+            "efficient",
+            "productive"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2774985",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2774985.jpg",
+        "question": "What mammalian genus do the animals in this picture belong to?",
+        "choices": [
+            "canine",
+            "feline",
+            "equine",
+            "bovine"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4720345",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4720345.jpg",
+        "question": "How well done is this steak cooked?",
+        "choices": [
+            "rare",
+            "medium rare",
+            "well done",
+            "raw"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "735955",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/735955.jpg",
+        "question": "How can you tell if this animal is alive or not?",
+        "choices": [
+            "sleeping",
+            "stuffed",
+            "motionless",
+            "breathing"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5290045",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5290045.jpg",
+        "question": "What kind of cow is that?",
+        "choices": [
+            "grass-fed",
+            "dairy",
+            "holstein",
+            "jersey"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1675445",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1675445.jpg",
+        "question": "What is the blue thing doing?",
+        "choices": [
+            "singing",
+            "sleeping",
+            "fly",
+            "eating"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1812965",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1812965.jpg",
+        "question": "Why does this person have protective clothing on?",
+        "choices": [
+            "weather protection",
+            "fashion",
+            "cultural tradition",
+            "safety"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1839495",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1839495.jpg",
+        "question": "What might this animal like to eat?",
+        "choices": [
+            "grass",
+            "berries",
+            "fish",
+            "bamboo"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5064415",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5064415.jpg",
+        "question": "What is the meat called on the sandwich?",
+        "choices": [
+            "shredded beef",
+            "pulled pork",
+            "marinated tofu",
+            "sliced chicken"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2928195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2928195.jpg",
+        "question": "The wire filaments inside the rubber wheel are called what?",
+        "choices": [
+            "rubber wire",
+            "rim",
+            "tread",
+            "spoke"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5329015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5329015.jpg",
+        "question": "Which type of cotton is used for making the pillow shown in this photo?",
+        "choices": [
+            "egyptian",
+            "pima",
+            "silk",
+            "polyester"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4954385",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4954385.jpg",
+        "question": "What other utensils are needed to consume the cake?",
+        "choices": [
+            "chopsticks",
+            "knife",
+            "fork",
+            "spoon"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5343735",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5343735.jpg",
+        "question": "What is the sport called that these girls are playing?",
+        "choices": [
+            "tennis",
+            "baseball",
+            "volleyball",
+            "softball"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "316995",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/316995.jpg",
+        "question": "What is the object the man is touching made of?",
+        "choices": [
+            "plastic",
+            "metal",
+            "foam",
+            "fiberglass"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2889445",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2889445.jpg",
+        "question": "What level course does this child ride?",
+        "choices": [
+            "intermediate",
+            "expert",
+            "professional",
+            "beginner"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4612545",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4612545.jpg",
+        "question": "What resturaunt is this dish from?",
+        "choices": [
+            "denny's",
+            "mcdonald's",
+            "chipotle",
+            "olive garden"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3905855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3905855.jpg",
+        "question": "What sport is being played?",
+        "choices": [
+            "golf",
+            "basketball",
+            "soccer",
+            "tennis"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2405015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2405015.jpg",
+        "question": "Where could you wash your hands?",
+        "choices": [
+            "bathtub",
+            "toilet",
+            "sink",
+            "oven"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5632585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5632585.jpg",
+        "question": "What type of business is this?",
+        "choices": [
+            "coffee shop",
+            "tech startup",
+            "art gallery",
+            "clothing boutique"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2489805",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2489805.jpg",
+        "question": "What ingredients were used to make this food?",
+        "choices": [
+            "vegetable",
+            "fruit",
+            "dairy",
+            "meat"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4665315",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4665315.jpg",
+        "question": "What kind of bird is this?",
+        "choices": [
+            "eagle",
+            "parrot",
+            "sparrow",
+            "hummingbird"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5063105",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5063105.jpg",
+        "question": "What type of lens is used for this picture?",
+        "choices": [
+            "wide angle",
+            "macro",
+            "fisheye",
+            "panoramic"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2831315",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2831315.jpg",
+        "question": "What is this room used for?",
+        "choices": [
+            "living room",
+            "kitchen",
+            "bedroom",
+            "bath"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2969695",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2969695.jpg",
+        "question": "Which animal can also live with the ones in the picture?",
+        "choices": [
+            "lion",
+            "zebra",
+            "giraffe",
+            "kangaroo"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2243685",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2243685.jpg",
+        "question": "What kind of trees are these?",
+        "choices": [
+            "oak tree",
+            "pine tree",
+            "maple tree",
+            "apple tree"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "126705",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/126705.jpg",
+        "question": "What activites make the place croweded?",
+        "choices": [
+            "concert",
+            "parade",
+            "festival",
+            "carnival"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2881705",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2881705.jpg",
+        "question": "What year was this picture taken?",
+        "choices": [
+            "1920",
+            "1940",
+            "1960",
+            "1930"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3477685",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3477685.jpg",
+        "question": "What city do you think this is in?",
+        "choices": [
+            "new york city",
+            "seattle",
+            "san francisco",
+            "los angeles"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "4371455",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4371455.jpg",
+        "question": "When were these machines invented?",
+        "choices": [
+            "1900",
+            "1850",
+            "1800",
+            "1700"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "575505",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/575505.jpg",
+        "question": "Does this person look more like snotgirl by comic creator bryan lee o'malley or veronica from archie comics?",
+        "choices": [
+            "reggie from archie comics",
+            "veronica",
+            "betty from archie comics",
+            "juno from scott pilgrim by bryan lee o'malley"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "5197165",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5197165.jpg",
+        "question": "What style of weave was used to make that blanket?",
+        "choices": [
+            "loom",
+            "leather",
+            "crochet",
+            "knit"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4907395",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4907395.jpg",
+        "question": "Who's the guy on the left?",
+        "choices": [
+            "guru",
+            "priest",
+            "rabbi",
+            "imam"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5390675",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5390675.jpg",
+        "question": "This bear is native to what continent?",
+        "choices": [
+            "australia",
+            "antarctica",
+            "south america",
+            "europe"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3988845",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3988845.jpg",
+        "question": "What model of vehicle is that?",
+        "choices": [
+            "toyota",
+            "chevrolet",
+            "honda",
+            "ford"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4549785",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4549785.jpg",
+        "question": "What brand of bike is this?",
+        "choices": [
+            "honda",
+            "kawasaki",
+            "suzuki",
+            "harley davidson"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5518115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5518115.jpg",
+        "question": "What type of business is operated out of the tan building with the blue awning and large red doors?",
+        "choices": [
+            "bank",
+            "clothing store",
+            "restaurant",
+            "mechanic"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "522325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/522325.jpg",
+        "question": "What is generally in the drawer next to the bed?",
+        "choices": [
+            "alarm clock",
+            "tissue box",
+            "bible",
+            "reading glasses"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3940025",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3940025.jpg",
+        "question": "Name the bike model shown in this picture?",
+        "choices": [
+            "yamaha",
+            "honda",
+            "kawasaki",
+            "suzuki"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5771825",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5771825.jpg",
+        "question": "Which oscar winning movie prominently features a character sitting on one of these?",
+        "choices": [
+            "forest gump",
+            "the shawshank redemption",
+            "the titanic",
+            "the king's speech"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4933865",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4933865.jpg",
+        "question": "What is this dessert called?",
+        "choices": [
+            "ice cream",
+            "pie",
+            "cake",
+            "salad"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1103895",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1103895.jpg",
+        "question": "What animal sees in these colors?",
+        "choices": [
+            "snake",
+            "cat",
+            "dog",
+            "bird"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1329925",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1329925.jpg",
+        "question": "What president was this plus toy named after?",
+        "choices": [
+            "franklin d. roosevelt",
+            "george washington",
+            "teddy roosevelt",
+            "john f. kennedy"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3649195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3649195.jpg",
+        "question": "What is the name of the bridge the cars are on?",
+        "choices": [
+            "tunnel",
+            "viaduct",
+            "overpass",
+            "bridge"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2860015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2860015.jpg",
+        "question": "What holiday is this card being created for?",
+        "choices": [
+            "halloween",
+            "valentine's day",
+            "thanksgiving",
+            "new year"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5372065",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5372065.jpg",
+        "question": "Which bike model is this?",
+        "choices": [
+            "kawasaki",
+            "suzuki",
+            "yamaha",
+            "honda"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5700945",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5700945.jpg",
+        "question": "How is this dish prepared?",
+        "choices": [
+            "baked",
+            "boiled",
+            "grilled",
+            "fried"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3646655",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3646655.jpg",
+        "question": "What is a collective word representing the quantity of baked goods shown?",
+        "choices": [
+            "couple",
+            "few",
+            "many",
+            "dozen"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4568335",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4568335.jpg",
+        "question": "How many people use this mode of transportation daily in the world?",
+        "choices": [
+            "hundred",
+            "thousand",
+            "million",
+            "trillion"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1962445",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1962445.jpg",
+        "question": "What is the average lifespan for this animal?",
+        "choices": [
+            "45 years",
+            "60 years",
+            "30 years",
+            "15 years"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5041015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5041015.jpg",
+        "question": "Where is this?",
+        "choices": [
+            "kenya",
+            "ghana",
+            "south africa",
+            "nigeria"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4101955",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4101955.jpg",
+        "question": "What material is the wet suit made from?",
+        "choices": [
+            "spandex",
+            "nylon",
+            "fleece",
+            "neoprene"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "540915",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/540915.jpg",
+        "question": "Is the person in this picture sad mad or glad?",
+        "choices": [
+            "confused",
+            "sad",
+            "excited",
+            "glad"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4802125",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4802125.jpg",
+        "question": "How many apps does he have on his phone?",
+        "choices": [
+            "19",
+            "7",
+            "45",
+            "31"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5782035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5782035.jpg",
+        "question": "Are these fruits or vegetables?",
+        "choices": [
+            "vegetable",
+            "fruit",
+            "bread",
+            "meat"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3560435",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3560435.jpg",
+        "question": "What did they use what he was holding for?",
+        "choices": [
+            "dance",
+            "play",
+            "sleep",
+            "sing"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4287545",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4287545.jpg",
+        "question": "What is the seating capacity of the silver vehicle?",
+        "choices": [
+            "12",
+            "4",
+            "8",
+            "10"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "266115",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/266115.jpg",
+        "question": "How are the carrots cook?",
+        "choices": [
+            "mashed",
+            "fried",
+            "boiled",
+            "roasted"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1153615",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1153615.jpg",
+        "question": "Who lost this teddy bear?",
+        "choices": [
+            "sibling",
+            "child",
+            "grandparent",
+            "parent"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1530385",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1530385.jpg",
+        "question": "Who operates this kind of transporation?",
+        "choices": [
+            "conductor",
+            "pilot",
+            "chef",
+            "captain"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3790705",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3790705.jpg",
+        "question": "Where shouldn't people park?",
+        "choices": [
+            "fire hydrant",
+            "handicap parking spot",
+            "bus stop",
+            "residential driveway"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2142475",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2142475.jpg",
+        "question": "What is the complimentary color to the right man's shirt?",
+        "choices": [
+            "purple",
+            "yellow",
+            "green",
+            "red"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "2006995",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2006995.jpg",
+        "question": "What breed of cow is in the picture?",
+        "choices": [
+            "jersey",
+            "holstein",
+            "angus",
+            "limousin"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3522575",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3522575.jpg",
+        "question": "What is this sport called she is playing?",
+        "choices": [
+            "tennis",
+            "basketball",
+            "golf",
+            "soccer"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3225745",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3225745.jpg",
+        "question": "How were these fries cooked?",
+        "choices": [
+            "microwaved",
+            "deep fried",
+            "grilled",
+            "pan-fried"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2352215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2352215.jpg",
+        "question": "What unpleasant emotional state does this weather phenomenon often cause?",
+        "choices": [
+            "anger",
+            "depression",
+            "anxiety",
+            "happiness"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1559746",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1559746.jpg",
+        "question": "What food does the animal eat?",
+        "choices": [
+            "steak",
+            "tuna",
+            "salmon",
+            "chicken"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3325125",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3325125.jpg",
+        "question": "Which item in this room is usually to wash hands?",
+        "choices": [
+            "shower",
+            "mirror",
+            "toilet",
+            "sink"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1262295",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1262295.jpg",
+        "question": "What is the name of the player in this picture?",
+        "choices": [
+            "roger federer",
+            "serena williams",
+            "rafael nadal",
+            "maria sharapova"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4943285",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4943285.jpg",
+        "question": "What does this animal eat?",
+        "choices": [
+            "tuna",
+            "kelp",
+            "beef",
+            "salmon"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1208105",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1208105.jpg",
+        "question": "Why couldn't a child ride one of these by themself?",
+        "choices": [
+            "age",
+            "inconvenience",
+            "excitement",
+            "danger"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3248575",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3248575.jpg",
+        "question": "What kind of cat is this?",
+        "choices": [
+            "calico",
+            "siamese",
+            "tabby",
+            "bengal"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "888955",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/888955.jpg",
+        "question": "Who makes this tennis racket?",
+        "choices": [
+            "yonex",
+            "head",
+            "babolat",
+            "prince"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5668245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5668245.jpg",
+        "question": "What branch of the army is depicted here?",
+        "choices": [
+            "air force",
+            "coast guard",
+            "navy",
+            "marines"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "3719995",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3719995.jpg",
+        "question": "Is this grandfather clock in front of a photographic backdrop or a window?",
+        "choices": [
+            "mirror",
+            "window",
+            "painted mural",
+            "photographic backdrop"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2761275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2761275.jpg",
+        "question": "What type of dinner would you consider this to be?",
+        "choices": [
+            "fourth of july",
+            "hanukkah",
+            "christmas",
+            "thanksgiving"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3727565",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3727565.jpg",
+        "question": "What species of bird is this?",
+        "choices": [
+            "cockatoo",
+            "penguin",
+            "parakeet",
+            "canary"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1807515",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1807515.jpg",
+        "question": "What is the substance contained in the bottle?",
+        "choices": [
+            "bleach",
+            "water",
+            "vinegar",
+            "alcohol"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3992845",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3992845.jpg",
+        "question": "What animal should you watch out for while doing this?",
+        "choices": [
+            "shark",
+            "crocodile",
+            "dolphin",
+            "octopus"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "5070815",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5070815.jpg",
+        "question": "What type of kitchen is this?",
+        "choices": [
+            "u-shaped",
+            "peninsula",
+            "l-shaped",
+            "galley"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5227135",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5227135.jpg",
+        "question": "What kind of clouds are these?",
+        "choices": [
+            "stratocumulus",
+            "cirrus",
+            "nimbus",
+            "stratus"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4968015",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4968015.jpg",
+        "question": "What can i make with this?",
+        "choices": [
+            "smoothie",
+            "salad",
+            "sandwich",
+            "pancakes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2539245",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2539245.jpg",
+        "question": "What type of vehicle is painted orange in this picture?",
+        "choices": [
+            "bicycle",
+            "car",
+            "truck",
+            "motorcycle"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "5525735",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5525735.jpg",
+        "question": "What knocked the guy off his chair?",
+        "choices": [
+            "gust of wind",
+            "heavy object falling",
+            "sudden burst of laughter",
+            "wave"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5812055",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5812055.jpg",
+        "question": "What style are the eggs on the plate cooked?",
+        "choices": [
+            "hard boiled",
+            "poached",
+            "scrambled",
+            "sunny side up"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4039195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4039195.jpg",
+        "question": "What is the purpose of this vehicle?",
+        "choices": [
+            "transport pets",
+            "carry passengers",
+            "transport good",
+            "serve as a mobile office"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "1121105",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1121105.jpg",
+        "question": "What is the lighting in this space?",
+        "choices": [
+            "fluorescent bulb",
+            "candlelight",
+            "sunlight",
+            "street lamp"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4484925",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4484925.jpg",
+        "question": "What food is this?",
+        "choices": [
+            "carrot",
+            "turnip",
+            "radish",
+            "potato"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "434175",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/434175.jpg",
+        "question": "What type of computer is shown?",
+        "choices": [
+            "desktop",
+            "smartphone",
+            "tablet",
+            "laptop"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4981005",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4981005.jpg",
+        "question": "What is this vase made of?",
+        "choices": [
+            "marble",
+            "ceramic",
+            "glass",
+            "porcelain"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2706725",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2706725.jpg",
+        "question": "What type of event are these people attending?",
+        "choices": [
+            "festival",
+            "conference",
+            "wedding",
+            "concert"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1589525",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1589525.jpg",
+        "question": "Besides the name of a street this is also the name of a breed of what ranch animal?",
+        "choices": [
+            "pig",
+            "cow",
+            "horse",
+            "goat"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3355155",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3355155.jpg",
+        "question": "From what continent does this meal look like it came from?",
+        "choices": [
+            "asia",
+            "africa",
+            "europe",
+            "north america"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "832175",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/832175.jpg",
+        "question": "What utensil is needed to eat this meal?",
+        "choices": [
+            "spoon",
+            "fork",
+            "chopsticks",
+            "straw"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "241975",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/241975.jpg",
+        "question": "How do you make this dish?",
+        "choices": [
+            "grill",
+            "simmer",
+            "bake",
+            "saut\u00e9"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "513095",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/513095.jpg",
+        "question": "What are these horses doing?",
+        "choices": [
+            "swimming",
+            "running",
+            "eat",
+            "talking"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "851925",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/851925.jpg",
+        "question": "Based on the person's hair what decade is this photo from the 40's or 70's?",
+        "choices": [
+            "50's",
+            "60's",
+            "80's",
+            "70's"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "3311855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3311855.jpg",
+        "question": "What is this person wearing that is mandated by law?",
+        "choices": [
+            "sunglasses",
+            "helmet",
+            "knee pads",
+            "seatbelt"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "3114655",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3114655.jpg",
+        "question": "What sport is this kind of racquet used to play?",
+        "choices": [
+            "table tennis",
+            "squash",
+            "pickleball",
+            "badminton"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1396375",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1396375.jpg",
+        "question": "Who makes that bike?",
+        "choices": [
+            "manufacturer",
+            "designer",
+            "retailer",
+            "distributor"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "1421275",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1421275.jpg",
+        "question": "Is this food cooked or raw?",
+        "choices": [
+            "partially cooked",
+            "undercooked",
+            "cooked",
+            "processed"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3123855",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3123855.jpg",
+        "question": "What animal do you have to watch out for when doing this sport?",
+        "choices": [
+            "dolphin",
+            "shark",
+            "jellyfish",
+            "seagull"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "2460645",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2460645.jpg",
+        "question": "What breed of livestock are these animals?",
+        "choices": [
+            "sheep",
+            "cow",
+            "chicken",
+            "goat"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "4788625",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4788625.jpg",
+        "question": "What is the weather like?",
+        "choices": [
+            "cloudy",
+            "snowy",
+            "rainy",
+            "sunny"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "1029065",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1029065.jpg",
+        "question": "What do cars do when the street lights are this color?",
+        "choices": [
+            "honk their horns",
+            "stop",
+            "turn left",
+            "accelerate"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "512035",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/512035.jpg",
+        "question": "Which color seen on a garment here is often seen on flowering bushes?",
+        "choices": [
+            "purple",
+            "pink",
+            "yellow",
+            "green"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1087585",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1087585.jpg",
+        "question": "Where can you buy this?",
+        "choices": [
+            "drug store",
+            "grocery store",
+            "online marketplace",
+            "hardware store"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "4104935",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4104935.jpg",
+        "question": "In which us states are these fruits commonly grown?",
+        "choices": [
+            "alabama",
+            "florida",
+            "california",
+            "georgia"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4855325",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/4855325.jpg",
+        "question": "How did this get like this?",
+        "choices": [
+            "weathered",
+            "carved",
+            "painted",
+            "stained"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "2649925",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2649925.jpg",
+        "question": "What vitamin do these fruit give?",
+        "choices": [
+            "vitamin a",
+            "c",
+            "vitamin d",
+            "vitamin b"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "1431195",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/1431195.jpg",
+        "question": "Who won this years championship in this sport?",
+        "choices": [
+            "serena williams",
+            "simona halep",
+            "naomi osaka",
+            "maria sharapova"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "2034165",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/2034165.jpg",
+        "question": "What are the objects in this woman's hand used for?",
+        "choices": [
+            "sleep",
+            "write",
+            "eat",
+            "wear"
+        ],
+        "gt_answers": "C"
+    },
+    {
+        "question_id": "3490215",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/3490215.jpg",
+        "question": "What is the name of the famous train pictured?",
+        "choices": [
+            "thomas",
+            "gordon",
+            "percy",
+            "james"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "152595",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/152595.jpg",
+        "question": "What type of flowers are pictured?",
+        "choices": [
+            "tulip",
+            "daisy",
+            "rose",
+            "lilac"
+        ],
+        "gt_answers": "D"
+    },
+    {
+        "question_id": "5159935",
+        "image_path": "/data/stzhao_data/data_vl/OKVQA_reformeval/images/5159935.jpg",
+        "question": "What type of berry is in this cake?",
+        "choices": [
+            "strawberry",
+            "blueberry",
+            "blackberry",
+            "pineapple"
+        ],
+        "gt_answers": "B"
+    }
+]

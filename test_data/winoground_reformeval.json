@@ -1,0 +1,802 @@
+[
+    {
+        "question_id": "251_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/251_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "an inflatable flamingo on a person",
+            "a person on an inflatable flamingo"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "159_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/159_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a ball is casting a shadow beside a person",
+            "a person is casting a shadow beside a ball"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "292_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/292_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the skipping rope color is similar to the shoelaces but different to the shoes",
+            "the skipping rope color is different to the shoelaces but similar to the shoes"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "304_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/304_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "The white queen is taking the black king",
+            "The black queen is taking the white king"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "134_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/134_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there are a bunch of people and two horses",
+            "there are two people and a bunch of horses"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "172_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/172_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the water is filled with plastic",
+            "the plastic is filled with water"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "309_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/309_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the plant is eating the bug",
+            "the bug is eating the plant"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "385_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/385_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a person smiles at another person wearing a checked shirt who is hitting a ping pong ball",
+            "a person wearing a checked shirt smiles at another person who is hitting a ping pong ball"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "216_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/216_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "boat below the water",
+            "water below the boat"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "233_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/233_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a device that intercepts the sun's rays on a human being",
+            "a human being on a device that intercepts the sun's rays"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "115_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/115_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "person in orange is reading the white book",
+            "person in white is reading the orange book"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "370_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/370_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "two sparklers for one hand",
+            "one sparkler for two hands"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "182_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/182_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the person on the left is holding the phone and the person on the right is staring at it",
+            "the person on the right is holding the phone and the person on the left is staring at it"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "134_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/134_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there are two people and a bunch of horses",
+            "there are a bunch of people and two horses"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "237_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/237_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "person over board",
+            "person overboard"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "318_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/318_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "one person wearing two scarfs",
+            "two persons wearing one scarf"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "244_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/244_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the knife on the left and the fork on the right",
+            "the knife on the right and the fork on the left"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "388_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/388_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "In a shopping cart, there are two animals that are the different species but are looking in same directions",
+            "In a shopping cart, there are two animals that are the same species but are looking in different directions"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "354_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/354_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a child putting a helmet on an adult",
+            "an adult putting a helmet on a child"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "128_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/128_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the fruit is heavy while the junk food is light",
+            "the fruit is light while the junk food is heavy"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "87_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/87_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "The caged bird has an unopened cage door",
+            "The uncaged bird has an opened cage door"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "355_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/355_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "An adult wearing purple lying next to a child",
+            "An adult lying next to a child wearing purple"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "104_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/104_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there is a pink couch with green pillows",
+            "there is a green couch with pink pillows"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "250_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/250_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "more kisses than hugs",
+            "more hugs than kisses"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "275_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/275_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "death of star",
+            "star of death"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "101_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/101_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "fake mustache and real hair on head",
+            "real mustache and fake hair on head"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "227_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/227_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "an object that rolls is on some wood",
+            "some wood is on an object that rolls"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "200_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/200_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a taller person wearing blue standing next to a shorter person",
+            "a shorter person wearing blue standing next to a taller person"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "14_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/14_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there is a mug in some grass",
+            "there is some grass in a mug"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "216_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/216_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "water below the boat",
+            "boat below the water"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "260_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/260_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "painting the red wall white",
+            "painting the white wall red"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "27_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/27_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the person with the ponytail packs stuff and other buys it",
+            "the person with the ponytail buys stuff and other packs it"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "326_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/326_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the person in the red swimcap swamout",
+            "outswam the person in the red swimcap"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "355_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/355_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "An adult lying next to a child wearing purple",
+            "An adult wearing purple lying next to a child"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "338_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/338_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "child in front facing row of yellow rubber ducks",
+            "front facing child in row of yellow rubber ducks"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "312_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/312_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the blue wall will soon be painted white",
+            "the white wall will soon be painted blue"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "344_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/344_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "A baby sits next to a person using an orange screwdriver to assemble a white piece of furniture",
+            "A person sits next to a baby using an orange screwdriver to assemble a white piece of furniture"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "12_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/12_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the image shows a computer on top of books",
+            "the image shows books on top of a computer"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "196_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/196_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a cat is stretching and a person is lying down",
+            "a cat is lying down and a person is stretching"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "183_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/183_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the orange on the left is moldy while the orange on the right is fresh",
+            "the orange on the right is moldy while the orange on the left is fresh"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "14_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/14_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there is a mug in some grass",
+            "there is some grass in a mug"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "94_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/94_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "The dog rides with a visible tongue out",
+            "The dog rides without a visible tongue"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "261_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/261_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "wearing a red jacket over blue",
+            "wearing a blue jacket over red"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "299_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/299_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the larger ball is heavier and the smaller one is lighter",
+            "the larger ball is lighter and the smaller one is heavier"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "154_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/154_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a person is using a wheelchair next to a dog",
+            "a dog is using a wheelchair next to a person"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "56_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/56_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "jumping away from the photographer and towards the others",
+            "jumping towards the photographer and away from the others"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "228_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/228_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a human viewing a cat on a screen",
+            "a cat viewing a human on a screen"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "293_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/293_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the blue balloon is being lifted by the weight",
+            "the weight is being lifted by the blue balloon"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "63_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/63_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "no people wear blue shirts and six people wear white shirts",
+            "six people wear blue shirts and no people wear white shirts"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "260_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/260_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "painting the white wall red",
+            "painting the red wall white"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "204_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/204_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "just one table tennis racket, many a ball",
+            "many a table tennis racket, just one ball"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "8_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/8_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a tree smashed into a car",
+            "a car smashed into a tree"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "272_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/272_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "using the laptop while the guitar is close by",
+            "using the guitar while the laptop is close by"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "372_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/372_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a spider towering over a dog",
+            "a dog towering over a spider"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "339_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/339_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a bird cooking a person",
+            "a person cooking a bird"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "110_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/110_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there's one yellow and many blue balls",
+            "there's one blue and many yellow balls"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "74_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/74_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "walking out on a rock",
+            "rocking out on a walk"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "255_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/255_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the confident doctor's stethoscope is around their neck, and their jacket is over their name tag",
+            "the confident doctor's stethoscope is around their neck, and their name tag is over their jacket"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "4_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/4_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the person without earrings pays the person with earrings",
+            "the person with earrings pays the person without earrings"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "112_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/112_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the red team kicking the ball directly next to the blue team",
+            "the blue team kicking the ball directly next to the red team"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "263_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/263_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "poor unfortunate people",
+            "unfortunate poor people"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "41_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/41_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the orange lollipop is surprised and the red lollipop is sad",
+            "the orange lollipop is sad and the red lollipop is surprised"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "155_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/155_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "some plants surrounding a lightbulb",
+            "a lightbulb surrounding some plants"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "343_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/343_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "together hammering something",
+            "hammering something together"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "63_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/63_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "no people wear blue shirts and six people wear white shirts",
+            "six people wear blue shirts and no people wear white shirts"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "230_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/230_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a mike in the left hand while raising the right",
+            "a mike in the right hand while raising the left"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "246_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/246_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "bits of cars",
+            "cars of bits"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "164_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/164_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "clouds in the mind",
+            "mind in the clouds"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "97_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/97_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "they are using no bait but still got fish",
+            "they are using bait but still got no fish"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "170_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/170_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the person is bigger than the house",
+            "the house is bigger than the person"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "194_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/194_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the dog is swimming and the person is standing",
+            "the dog is standing and the person is swimming"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "83_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/83_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "a diagram showing movement from right to left",
+            "a diagram showing movement from left to right"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "158_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/158_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there's a dog in a stroller next to a human",
+            "there's a human in a stroller next to a dog"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "247_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/247_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the world on top of a person",
+            "a person on top of the world"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "359_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/359_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "butchering red meat while wearing white but not yellow",
+            "butchering white meat while wearing yellow but not red"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "284_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/284_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the green one is fast and the one in white is comparatively slow",
+            "the green one is slow and the one in white is comparatively fast"
+        ],
+        "gt_answers": "A"
+    },
+    {
+        "question_id": "47_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/47_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "the sailboat sails close but the beach is far away",
+            "the sailboat sails far away but the beach is close"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "58_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/58_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "it hatched before it was eaten",
+            "it was eaten before it hatched"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "15_1",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/15_1.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there are more skiers than snowboarders",
+            "there are more snowboarders than skiers"
+        ],
+        "gt_answers": "B"
+    },
+    {
+        "question_id": "141_0",
+        "image_path": "/data/stzhao_data/data_vl/Winoground_reformeval/images/141_0.jpg",
+        "question": "Which sentence describes this image?",
+        "choices": [
+            "there are more computers than people",
+            "there are more people than computers"
+        ],
+        "gt_answers": "A"
+    }
+]
