@@ -1,5 +1,4 @@
 # Causal-CoG
-Stay tuned.
 
 ## Installation
 The environment installation keeps the same with LLaVA.
